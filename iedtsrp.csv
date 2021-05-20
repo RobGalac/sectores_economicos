@@ -16,7 +16,7 @@
 "01/01/1999","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/01/1999","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",5.099605,5.099605,0
 "01/01/1999","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/01/1999","sector","Confidencial",0.034675,0.0346750000000497,0
+"01/01/1999","sector","Confidencial",0.034675,0.0346749999999929,0
 "01/01/1999","subsector","111 Agricultura",,,1
 "01/01/1999","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/1999","subsector","113 Aprovechamiento forestal",0,0,0
@@ -123,7 +123,7 @@
 "01/01/2000","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/01/2000","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",16.12789336,16.12789336,0
 "01/01/2000","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/01/2000","sector","Confidencial",0.36974698,0.369746999999933,0
+"01/01/2000","sector","Confidencial",0.36974698,0.36974699999999,0
 "01/01/2000","subsector","111 Agricultura",,,1
 "01/01/2000","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2000","subsector","113 Aprovechamiento forestal",0,0,0
@@ -230,7 +230,7 @@
 "01/01/2001","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2001","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",10.58649909,10.58649909,0
 "01/01/2001","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/01/2001","sector","Confidencial",6.73556503,6.73556500000009,0
+"01/01/2001","sector","Confidencial",6.73556503,6.73556500000001,0
 "01/01/2001","subsector","111 Agricultura",0.78962,0.78962,0
 "01/01/2001","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2001","subsector","113 Aprovechamiento forestal",0,0,0
@@ -337,7 +337,7 @@
 "01/01/2002","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2002","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",-16.417983,-16.417983,0
 "01/01/2002","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/01/2002","sector","Confidencial",0.07816499,0.0781650000000127,0
+"01/01/2002","sector","Confidencial",0.07816499,0.0781649999999843,0
 "01/01/2002","subsector","111 Agricultura",,,1
 "01/01/2002","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2002","subsector","113 Aprovechamiento forestal",0,0,0
@@ -436,7 +436,7 @@
 "01/01/2003","sector","48 y 49 Transportes, correos y almacenamiento",-0.628506,-0.628506,0
 "01/01/2003","sector","51 Información en medios masivos",14.452921,14.452921,0
 "01/01/2003","sector","52 Servicios financieros y de seguros",12.56131705,12.56131705,0
-"01/01/2003","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",0.093234,0.0932339999999997,0
+"01/01/2003","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",0.093234,0.0932340000000001,0
 "01/01/2003","sector","54 Servicios profesionales, científicos y técnicos",1.24486,1.244843,0
 "01/01/2003","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",-3.145509,-3.145509,0
 "01/01/2003","sector","61 Servicios educativos",0,0,0
@@ -444,7 +444,7 @@
 "01/01/2003","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2003","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",6.53438787,6.53438787,0
 "01/01/2003","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/01/2003","sector","Confidencial",0.06025598,0.0602560000000381,0
+"01/01/2003","sector","Confidencial",0.06025598,0.0602559999999812,0
 "01/01/2003","subsector","111 Agricultura",,,1
 "01/01/2003","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2003","subsector","113 Aprovechamiento forestal",0,0,0
@@ -513,7 +513,7 @@
 "01/01/2003","subsector","522 Instituciones de intermediación crediticia y financiera no bursátil",12.41048005,12.41048005,0
 "01/01/2003","subsector","523 Actividades bursátiles, cambiarias y de inversión financiera",0.094031,0.094031,0
 "01/01/2003","subsector","524 Compañías de fianzas, seguros y pensiones",,,1
-"01/01/2003","subsector","531 Servicios inmobiliarios",0.054794,0.0547940000000001,0
+"01/01/2003","subsector","531 Servicios inmobiliarios",0.054794,0.0547939999999997,0
 "01/01/2003","subsector","532 Servicios de alquiler de bienes muebles",,,1
 "01/01/2003","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",,,1
 "01/01/2003","subsector","541 Servicios profesionales, científicos y técnicos",1.24486,1.244843,0
@@ -551,7 +551,7 @@
 "01/01/2004","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2004","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",43.80848291,43.80848291,0
 "01/01/2004","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/01/2004","sector","Confidencial",0.60169799,0.601697999999601,0
+"01/01/2004","sector","Confidencial",0.60169799,0.601698000000056,0
 "01/01/2004","subsector","111 Agricultura",0,0,0
 "01/01/2004","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2004","subsector","113 Aprovechamiento forestal",,,1
@@ -658,7 +658,7 @@
 "01/01/2005","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/01/2005","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",9.2559621,10.01030116,0
 "01/01/2005","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/01/2005","sector","Confidencial",-2.52777302,-2.52777299999963,0
+"01/01/2005","sector","Confidencial",-2.52777302,-2.52777300000002,0
 "01/01/2005","subsector","111 Agricultura",,,1
 "01/01/2005","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2005","subsector","113 Aprovechamiento forestal",0,0,0
@@ -727,7 +727,7 @@
 "01/01/2005","subsector","522 Instituciones de intermediación crediticia y financiera no bursátil",-14.48294718,-14.48294718,0
 "01/01/2005","subsector","523 Actividades bursátiles, cambiarias y de inversión financiera",0.287855,0.008939,0
 "01/01/2005","subsector","524 Compañías de fianzas, seguros y pensiones",,0.365651,0
-"01/01/2005","subsector","531 Servicios inmobiliarios",9.940209,9.940209,0
+"01/01/2005","subsector","531 Servicios inmobiliarios",9.940209,9.94020899999999,0
 "01/01/2005","subsector","532 Servicios de alquiler de bienes muebles",,,1
 "01/01/2005","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",,,1
 "01/01/2005","subsector","541 Servicios profesionales, científicos y técnicos",-6.916421,-6.916421,0
@@ -752,7 +752,7 @@
 "01/01/2006","sector","21 Minería",,,1
 "01/01/2006","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",-0.042017,-0.042017,0
 "01/01/2006","sector","23 Construcción",-0.875194,-0.875194,0
-"01/01/2006","sector","31-33 Industrias manufactureras",4.388779,4.3887790000001,0
+"01/01/2006","sector","31-33 Industrias manufactureras",4.388779,4.38877900000007,0
 "01/01/2006","sector","43 y 46 Comercio",12.234195,12.234195,0
 "01/01/2006","sector","48 y 49 Transportes, correos y almacenamiento",4.557729,4.557729,0
 "01/01/2006","sector","51 Información en medios masivos",4.486592,4.486592,0
@@ -765,7 +765,7 @@
 "01/01/2006","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2006","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",26.29723547,26.29723547,0
 "01/01/2006","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/01/2006","sector","Confidencial",-2.11009597,-2.11009600000008,0
+"01/01/2006","sector","Confidencial",-2.11009597,-2.11009600000006,0
 "01/01/2006","subsector","111 Agricultura",,,1
 "01/01/2006","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2006","subsector","113 Aprovechamiento forestal",0,0,0
@@ -872,7 +872,7 @@
 "01/01/2007","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/01/2007","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",32.31359629,32.31359629,0
 "01/01/2007","sector","81 Otros servicios excepto actividades gubernamentales",0.025812,0.025812,0
-"01/01/2007","sector","Confidencial",-9.56520899,-9.56520899999975,0
+"01/01/2007","sector","Confidencial",-9.56520899,-9.56520899999998,0
 "01/01/2007","subsector","111 Agricultura",0,0,0
 "01/01/2007","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2007","subsector","113 Aprovechamiento forestal",0,0,0
@@ -966,7 +966,7 @@
 "01/01/2008","sector","21 Minería",4.091326,4.091326,0
 "01/01/2008","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",1.67556,1.67556,0
 "01/01/2008","sector","23 Construcción",1.401866,1.401866,0
-"01/01/2008","sector","31-33 Industrias manufactureras",71.497671,71.497671,0
+"01/01/2008","sector","31-33 Industrias manufactureras",71.497671,71.4976710000001,0
 "01/01/2008","sector","43 y 46 Comercio",33.006644,33.006644,0
 "01/01/2008","sector","48 y 49 Transportes, correos y almacenamiento",6.932172,6.932172,0
 "01/01/2008","sector","51 Información en medios masivos",2.141676,2.141676,0
@@ -979,7 +979,7 @@
 "01/01/2008","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/01/2008","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",-15.93326483,-15.93326483,0
 "01/01/2008","sector","81 Otros servicios excepto actividades gubernamentales",0.633913,0.633913,0
-"01/01/2008","sector","Confidencial",0.00072593,0.000726000000014437,0
+"01/01/2008","sector","Confidencial",0.00072593,0.000725999999929172,0
 "01/01/2008","subsector","111 Agricultura",4.14098,4.14098,0
 "01/01/2008","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2008","subsector","113 Aprovechamiento forestal",0,0,0
@@ -1007,7 +1007,7 @@
 "01/01/2008","subsector","327 Fabricación de productos a base de minerales no metálicos",0,0,0
 "01/01/2008","subsector","331 Industrias metálicas básicas",0.734958,0.734958,0
 "01/01/2008","subsector","332 Fabricación de productos metálicos",13.542651,13.542651,0
-"01/01/2008","subsector","333 Fabricación de maquinaria y equipo",0.046981,0.0469810000000014,0
+"01/01/2008","subsector","333 Fabricación de maquinaria y equipo",0.046981,0.046981,0
 "01/01/2008","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",-31.090746,-31.090746,0
 "01/01/2008","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",2.492016,2.492016,0
 "01/01/2008","subsector","336 Fabricación de equipo de transporte",0.803773,0.803773,0
@@ -1086,7 +1086,7 @@
 "01/01/2009","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2009","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",13.83658605,14.03362318,0
 "01/01/2009","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/01/2009","sector","Confidencial",-3.88e-06,-3.88000017892409e-06,0
+"01/01/2009","sector","Confidencial",-3.88e-06,-3.88000000839384e-06,0
 "01/01/2009","subsector","111 Agricultura",,,1
 "01/01/2009","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2009","subsector","113 Aprovechamiento forestal",0,0,0
@@ -1224,7 +1224,7 @@
 "01/01/2010","subsector","333 Fabricación de maquinaria y equipo",9.172484,9.172484,0
 "01/01/2010","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",38.35692,38.35692,0
 "01/01/2010","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",1.826627,1.826627,0
-"01/01/2010","subsector","336 Fabricación de equipo de transporte",-1.082543,-1.08254299999999,0
+"01/01/2010","subsector","336 Fabricación de equipo de transporte",-1.082543,-1.082543,0
 "01/01/2010","subsector","337 Fabricación de muebles, colchones y persianas",0,0,0
 "01/01/2010","subsector","339 Otras industrias manufactureras",1.156732,1.156732,0
 "01/01/2010","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",1.351288,1.351288,0
@@ -1300,7 +1300,7 @@
 "01/01/2011","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",1.791883,1.791883,0
 "01/01/2011","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",27.12922232,27.12922232,0
 "01/01/2011","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/01/2011","sector","Confidencial",0.90293201,0.902931999999964,0
+"01/01/2011","sector","Confidencial",0.90293201,0.902931999999993,0
 "01/01/2011","subsector","111 Agricultura",,,1
 "01/01/2011","subsector","112 Cría y explotación de animales",,,1
 "01/01/2011","subsector","113 Aprovechamiento forestal",0,0,0
@@ -1336,7 +1336,7 @@
 "01/01/2011","subsector","339 Otras industrias manufactureras",13.22062418,13.22062418,0
 "01/01/2011","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",1.840272,1.840272,0
 "01/01/2011","subsector","432 Comercio al por mayor de productos textiles y calzado",,,1
-"01/01/2011","subsector","433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",-0.05729263,-0.0572926299999993,0
+"01/01/2011","subsector","433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",-0.05729263,-0.057292629999999,0
 "01/01/2011","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",-4.021761,-4.021761,0
 "01/01/2011","subsector","435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",-22.84059636,-22.84059636,0
 "01/01/2011","subsector","436 Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",,,1
@@ -1395,7 +1395,7 @@
 "01/01/2012","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",,,1
 "01/01/2012","sector","23 Construcción",9.2195386,9.2195386,0
 "01/01/2012","sector","31-33 Industrias manufactureras",436.3437143,436.34371433,0
-"01/01/2012","sector","43 y 46 Comercio",7.7743063,7.7743063,0
+"01/01/2012","sector","43 y 46 Comercio",7.7743063,7.77430630000001,0
 "01/01/2012","sector","48 y 49 Transportes, correos y almacenamiento",8.322468,8.322468,0
 "01/01/2012","sector","51 Información en medios masivos",17.643805,17.643805,0
 "01/01/2012","sector","52 Servicios financieros y de seguros",53.94708221,53.94708221,0
@@ -1407,7 +1407,7 @@
 "01/01/2012","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/01/2012","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",17.17125726,17.17125726,0
 "01/01/2012","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/01/2012","sector","Confidencial",1.309665,1.30966499999988,0
+"01/01/2012","sector","Confidencial",1.309665,1.3096650000009,0
 "01/01/2012","subsector","111 Agricultura",,,1
 "01/01/2012","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2012","subsector","113 Aprovechamiento forestal",0,0,0
@@ -1501,7 +1501,7 @@
 "01/01/2013","sector","21 Minería",0.061157,0.061157,0
 "01/01/2013","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",0,0,0
 "01/01/2013","sector","23 Construcción",3.63065205,3.63065205,0
-"01/01/2013","sector","31-33 Industrias manufactureras",25.0284783,25.0284782999999,0
+"01/01/2013","sector","31-33 Industrias manufactureras",25.0284783,25.0284783,0
 "01/01/2013","sector","43 y 46 Comercio",21.52498387,21.52498387,0
 "01/01/2013","sector","48 y 49 Transportes, correos y almacenamiento",-0.761232,-0.761232,0
 "01/01/2013","sector","51 Información en medios masivos",44.816779,44.816779,0
@@ -1514,7 +1514,7 @@
 "01/01/2013","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/01/2013","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",20.3665865,20.3665865,0
 "01/01/2013","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/01/2013","sector","Confidencial",0.07332805,0.0733280000000889,0
+"01/01/2013","sector","Confidencial",0.07332805,0.0733280000000036,0
 "01/01/2013","subsector","111 Agricultura",0.449935,0.449935,0
 "01/01/2013","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2013","subsector","113 Aprovechamiento forestal",0,0,0
@@ -1614,14 +1614,14 @@
 "01/01/2014","sector","51 Información en medios masivos",35.409537,35.409537,0
 "01/01/2014","sector","52 Servicios financieros y de seguros",201.6774007,201.67740072,0
 "01/01/2014","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",10.398258,10.398258,0
-"01/01/2014","sector","54 Servicios profesionales, científicos y técnicos",-0.96614104,-0.966141040000001,0
+"01/01/2014","sector","54 Servicios profesionales, científicos y técnicos",-0.96614104,-0.96614104,0
 "01/01/2014","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",,,1
 "01/01/2014","sector","61 Servicios educativos",0,0,0
 "01/01/2014","sector","62 Servicios de salud y de asistencia social",0,0,0
 "01/01/2014","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2014","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",20.93590848,20.93590848,0
 "01/01/2014","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/01/2014","sector","Confidencial",11.62325041,11.6232504099997,0
+"01/01/2014","sector","Confidencial",11.62325041,11.62325041,0
 "01/01/2014","subsector","111 Agricultura",,,1
 "01/01/2014","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2014","subsector","113 Aprovechamiento forestal",0,0,0
@@ -1693,7 +1693,7 @@
 "01/01/2014","subsector","531 Servicios inmobiliarios",,,1
 "01/01/2014","subsector","532 Servicios de alquiler de bienes muebles",0,0,0
 "01/01/2014","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",,,1
-"01/01/2014","subsector","541 Servicios profesionales, científicos y técnicos",-0.96614104,-0.966141040000001,0
+"01/01/2014","subsector","541 Servicios profesionales, científicos y técnicos",-0.96614104,-0.96614104,0
 "01/01/2014","subsector","561 Servicios de apoyo a los negocios",,,1
 "01/01/2014","subsector","562 Manejo de residuos y desechos, y servicios de remediación",0,0,0
 "01/01/2014","subsector","611 Servicios educativos",0,0,0
@@ -1721,14 +1721,14 @@
 "01/01/2015","sector","51 Información en medios masivos",701.167755,701.167755,0
 "01/01/2015","sector","52 Servicios financieros y de seguros",93.66922544,93.66922544,0
 "01/01/2015","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",23.90620388,23.90620388,0
-"01/01/2015","sector","54 Servicios profesionales, científicos y técnicos",0.51826775,0.51826775,0
+"01/01/2015","sector","54 Servicios profesionales, científicos y técnicos",0.51826775,0.52157992,0
 "01/01/2015","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",1.759968,1.935211,0
 "01/01/2015","sector","61 Servicios educativos",,,1
 "01/01/2015","sector","62 Servicios de salud y de asistencia social",,,1
 "01/01/2015","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2015","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",19.17412699,19.17412699,0
 "01/01/2015","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/01/2015","sector","Confidencial",40.8435438,2.35759799999914,0
+"01/01/2015","sector","Confidencial",40.8435438,2.35759800000005,0
 "01/01/2015","subsector","111 Agricultura",,,1
 "01/01/2015","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2015","subsector","113 Aprovechamiento forestal",0,0,0
@@ -1800,7 +1800,7 @@
 "01/01/2015","subsector","531 Servicios inmobiliarios",2.76134688,2.76134688,0
 "01/01/2015","subsector","532 Servicios de alquiler de bienes muebles",,,1
 "01/01/2015","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",0,0,0
-"01/01/2015","subsector","541 Servicios profesionales, científicos y técnicos",0.51826775,0.51826775,0
+"01/01/2015","subsector","541 Servicios profesionales, científicos y técnicos",0.51826775,0.52157992,0
 "01/01/2015","subsector","561 Servicios de apoyo a los negocios",1.759968,1.935211,0
 "01/01/2015","subsector","562 Manejo de residuos y desechos, y servicios de remediación",0,0,0
 "01/01/2015","subsector","611 Servicios educativos",,,1
@@ -1816,14 +1816,14 @@
 "01/01/2015","subsector","812 Servicios personales",0,0,0
 "01/01/2015","subsector","813 Asociaciones y organizaciones",0,0,0
 "01/01/2015","Tipo de inversión","Cuentas entre compañías",81.88821,81.88821,0
-"01/01/2015","Tipo de inversión","Nuevas inversiones",743.97768,746.3009,0
+"01/01/2015","Tipo de inversión","Nuevas inversiones",743.97768,746.30421,0
 "01/01/2015","Tipo de inversión","Reinversión de utilidades",363.80813,363.80813,0
 "01/01/2016","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",21.27083469,21.27083469,0
 "01/01/2016","sector","21 Minería",0,0,0
 "01/01/2016","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",-6.672724,-6.672724,0
 "01/01/2016","sector","23 Construcción",40.69883064,40.69883064,0
 "01/01/2016","sector","31-33 Industrias manufactureras",1181.461253,1181.57232371,0
-"01/01/2016","sector","43 y 46 Comercio",7.94157364,7.94157363999999,0
+"01/01/2016","sector","43 y 46 Comercio",7.94157364,7.94157364,0
 "01/01/2016","sector","48 y 49 Transportes, correos y almacenamiento",24.05343523,24.05343523,0
 "01/01/2016","sector","51 Información en medios masivos",2.738135,2.738135,0
 "01/01/2016","sector","52 Servicios financieros y de seguros",142.189637,142.18963704,0
@@ -1835,7 +1835,7 @@
 "01/01/2016","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2016","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",19.1727834,19.1727834,0
 "01/01/2016","sector","81 Otros servicios excepto actividades gubernamentales",0.15099495,0.15099495,0
-"01/01/2016","sector","Confidencial",3.50084982,3.5008489999982,0
+"01/01/2016","sector","Confidencial",3.50084982,3.50084900000002,0
 "01/01/2016","subsector","111 Agricultura",,,1
 "01/01/2016","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2016","subsector","113 Aprovechamiento forestal",0,0,0
@@ -1942,7 +1942,7 @@
 "01/01/2017","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2017","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",16.26241449,16.03118811,0
 "01/01/2017","sector","81 Otros servicios excepto actividades gubernamentales",-2.73589961,,1
-"01/01/2017","sector","Confidencial",-5e-08,-2.2329070699999,0
+"01/01/2017","sector","Confidencial",-5e-08,-2.23290707000001,0
 "01/01/2017","subsector","111 Agricultura",26.32150707,34.58182736,0
 "01/01/2017","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2017","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2039,7 +2039,7 @@
 "01/01/2018","sector","31-33 Industrias manufactureras",179.695826,339.31472095,0
 "01/01/2018","sector","43 y 46 Comercio",49.35438597,119.93468963,0
 "01/01/2018","sector","48 y 49 Transportes, correos y almacenamiento",22.93529094,22.00330174,0
-"01/01/2018","sector","51 Información en medios masivos",9.5720625,0.507646710000001,0
+"01/01/2018","sector","51 Información en medios masivos",9.5720625,0.50764671,0
 "01/01/2018","sector","52 Servicios financieros y de seguros",159.690177,157.92779163,0
 "01/01/2018","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",-4.51068338,,1
 "01/01/2018","sector","54 Servicios profesionales, científicos y técnicos",-0.97830188,-0.179032209999999,0
@@ -2049,7 +2049,7 @@
 "01/01/2018","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2018","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",11.31014719,18.01396768,0
 "01/01/2018","sector","81 Otros servicios excepto actividades gubernamentales",-0.55214155,-0.54614472,0
-"01/01/2018","sector","Confidencial",-1e-08,12.35748541,0
+"01/01/2018","sector","Confidencial",-1e-08,12.3574854100011,0
 "01/01/2018","subsector","111 Agricultura",-1.9241822,0.28914612,0
 "01/01/2018","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2018","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2076,7 +2076,7 @@
 "01/01/2018","subsector","326 Industria del plástico y del hule",-2.65094667,77.54295496,0
 "01/01/2018","subsector","327 Fabricación de productos a base de minerales no metálicos",1.5739251,,1
 "01/01/2018","subsector","331 Industrias metálicas básicas",1.40283668,6.3359942,0
-"01/01/2018","subsector","332 Fabricación de productos metálicos",-0.76478231,-0.146049599999998,0
+"01/01/2018","subsector","332 Fabricación de productos metálicos",-0.76478231,-0.146049599999999,0
 "01/01/2018","subsector","333 Fabricación de maquinaria y equipo",8.29626349,3.07355412,0
 "01/01/2018","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",106.4742862,110.99698742,0
 "01/01/2018","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",2.45247966,2.47057942,0
@@ -2112,7 +2112,7 @@
 "01/01/2018","subsector","511 Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",0,0,0
 "01/01/2018","subsector","512 Industria fílmica y del video, e industria del sonido",0,0,0
 "01/01/2018","subsector","515 Radio y televisión",0,0,0
-"01/01/2018","subsector","517 Telecomunicaciones",9.5720625,0.507646710000001,0
+"01/01/2018","subsector","517 Telecomunicaciones",9.5720625,0.50764671,0
 "01/01/2018","subsector","518 Procesamiento electrónico de información, hospedaje y otros servicios relacionados",0,0,0
 "01/01/2018","subsector","519 Otros servicios de información",0,0,0
 "01/01/2018","subsector","522 Instituciones de intermediación crediticia y financiera no bursátil",132.796641,127.29122284,0
@@ -2150,13 +2150,13 @@
 "01/01/2019","sector","52 Servicios financieros y de seguros",139.1427807,169.63663711,0
 "01/01/2019","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",0.00245118,18.10507549,0
 "01/01/2019","sector","54 Servicios profesionales, científicos y técnicos",0.87732963,6.60616113,0
-"01/01/2019","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",,2.84925416,0
+"01/01/2019","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",,2.84977475,0
 "01/01/2019","sector","61 Servicios educativos",0,0,0
 "01/01/2019","sector","62 Servicios de salud y de asistencia social",,,1
 "01/01/2019","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/01/2019","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",15.95783381,20.57006215,0
 "01/01/2019","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/01/2019","sector","Confidencial",11.04972899,27.1707807400001,0
+"01/01/2019","sector","Confidencial",11.04972899,27.1707807399999,0
 "01/01/2019","subsector","111 Agricultura",,,1
 "01/01/2019","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2019","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2229,7 +2229,7 @@
 "01/01/2019","subsector","532 Servicios de alquiler de bienes muebles",0,0,0
 "01/01/2019","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",,17.88802819,0
 "01/01/2019","subsector","541 Servicios profesionales, científicos y técnicos",0.87732963,6.60616113,0
-"01/01/2019","subsector","561 Servicios de apoyo a los negocios",,2.84925416,0
+"01/01/2019","subsector","561 Servicios de apoyo a los negocios",,2.84977475,0
 "01/01/2019","subsector","562 Manejo de residuos y desechos, y servicios de remediación",0,0,0
 "01/01/2019","subsector","611 Servicios educativos",0,0,0
 "01/01/2019","subsector","621 Servicios médicos de consulta externa y servicios relacionados",,,1
@@ -2244,26 +2244,26 @@
 "01/01/2019","subsector","812 Servicios personales",0,,1
 "01/01/2019","subsector","813 Asociaciones y organizaciones",0,0,0
 "01/01/2019","Tipo de inversión","Cuentas entre compañías",99.03250698,87.1179,0
-"01/01/2019","Tipo de inversión","Nuevas inversiones",87.71594579,140.4483,0
+"01/01/2019","Tipo de inversión","Nuevas inversiones",87.71594579,140.4488,0
 "01/01/2019","Tipo de inversión","Reinversión de utilidades",331.7831515,777.6304,0
 "01/01/2020","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",2.43467,3.8220666,0
 "01/01/2020","sector","21 Minería",6.92374531,19.60913319,0
 "01/01/2020","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",-24.42417875,-22.83901608,0
 "01/01/2020","sector","23 Construcción",13.54311162,14.77595776,0
 "01/01/2020","sector","31-33 Industrias manufactureras",536.2017365,769.51971879,0
-"01/01/2020","sector","43 y 46 Comercio",149.4482162,179.70271425,0
+"01/01/2020","sector","43 y 46 Comercio",149.4482162,179.70256389,0
 "01/01/2020","sector","48 y 49 Transportes, correos y almacenamiento",-3.61397038,10.0268309,0
 "01/01/2020","sector","51 Información en medios masivos",16.68616539,16.68616539,0
 "01/01/2020","sector","52 Servicios financieros y de seguros",156.6789078,383.67784535,0
 "01/01/2020","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",,,1
-"01/01/2020","sector","54 Servicios profesionales, científicos y técnicos",-2.16628007,-0.753857009999999,0
+"01/01/2020","sector","54 Servicios profesionales, científicos y técnicos",-2.16628007,-0.75385701,0
 "01/01/2020","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",,-1.38498043,0
 "01/01/2020","sector","61 Servicios educativos",0,0,0
 "01/01/2020","sector","62 Servicios de salud y de asistencia social",0,0,0
 "01/01/2020","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
-"01/01/2020","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",26.94081501,43.46435112,0
+"01/01/2020","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",26.94081501,43.52064021,0
 "01/01/2020","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/01/2020","sector","Confidencial",2.03398757,3.9706359599993,0
+"01/01/2020","sector","Confidencial",2.03398757,3.97063596000021,0
 "01/01/2020","subsector","111 Agricultura",,,1
 "01/01/2020","subsector","112 Cría y explotación de animales",0,0,0
 "01/01/2020","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2300,7 +2300,7 @@
 "01/01/2020","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",87.98962845,105.92034847,0
 "01/01/2020","subsector","432 Comercio al por mayor de productos textiles y calzado",-1.84819148,-0.50569638,0
 "01/01/2020","subsector","433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",8.2286705,13.70891286,0
-"01/01/2020","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",5.19286402,5.26776691,0
+"01/01/2020","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",5.19286402,5.26761655,0
 "01/01/2020","subsector","435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",7.80759931,11.22648286,0
 "01/01/2020","subsector","436 Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",0,0,0
 "01/01/2020","subsector","437 Intermediación de comercio al por mayor",-0.33161784,-0.33156772,0
@@ -2335,7 +2335,7 @@
 "01/01/2020","subsector","531 Servicios inmobiliarios",,,1
 "01/01/2020","subsector","532 Servicios de alquiler de bienes muebles",0,0,0
 "01/01/2020","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",,,1
-"01/01/2020","subsector","541 Servicios profesionales, científicos y técnicos",-2.16628007,-0.753857009999999,0
+"01/01/2020","subsector","541 Servicios profesionales, científicos y técnicos",-2.16628007,-0.75385701,0
 "01/01/2020","subsector","561 Servicios de apoyo a los negocios",,-1.38498043,0
 "01/01/2020","subsector","562 Manejo de residuos y desechos, y servicios de remediación",0,0,0
 "01/01/2020","subsector","611 Servicios educativos",0,0,0
@@ -2345,14 +2345,17 @@
 "01/01/2020","subsector","624 Otros servicios de asistencia social",0,0,0
 "01/01/2020","subsector","711 Servicios artísticos, culturales y deportivos, y otros servicios relacionados",0,0,0
 "01/01/2020","subsector","713 Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos",0,0,0
-"01/01/2020","subsector","721 Servicios de alojamiento temporal",26.94081501,43.46435112,0
+"01/01/2020","subsector","721 Servicios de alojamiento temporal",26.94081501,43.52064021,0
 "01/01/2020","subsector","722 Servicios de preparación de alimentos y bebidas",0,0,0
 "01/01/2020","subsector","811 Servicios de reparación y mantenimiento",,,1
 "01/01/2020","subsector","812 Servicios personales",,,1
 "01/01/2020","subsector","813 Asociaciones y organizaciones",0,0,0
 "01/01/2020","Tipo de inversión","Cuentas entre compañías",144.053,149.894,0
-"01/01/2020","Tipo de inversión","Nuevas inversiones",106.3651,134.5332,0
+"01/01/2020","Tipo de inversión","Nuevas inversiones",106.3651,134.5893,0
 "01/01/2020","Tipo de inversión","Reinversión de utilidades",630.2689,1135.8504,0
+"01/01/2021","Tipo de inversión","Cuentas entre compañías",70.77677,70.77677,0
+"01/01/2021","Tipo de inversión","Nuevas inversiones",59.63989,59.63989,0
+"01/01/2021","Tipo de inversión","Reinversión de utilidades",507.34077,507.34077,0
 "01/04/1999","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",,,1
 "01/04/1999","sector","21 Minería",,,1
 "01/04/1999","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",0,0,0
@@ -2370,7 +2373,7 @@
 "01/04/1999","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/1999","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",10.73410133,10.73410133,0
 "01/04/1999","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/04/1999","sector","Confidencial",0.45880697,0.458807000000036,0
+"01/04/1999","sector","Confidencial",0.45880697,0.458807000000007,0
 "01/04/1999","subsector","111 Agricultura",,,1
 "01/04/1999","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/1999","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2477,7 +2480,7 @@
 "01/04/2000","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2000","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",26.68852456,26.68852456,0
 "01/04/2000","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2000","sector","Confidencial",0.10825104,0.108250999999939,0
+"01/04/2000","sector","Confidencial",0.10825104,0.108250999999996,0
 "01/04/2000","subsector","111 Agricultura",,,1
 "01/04/2000","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2000","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2584,7 +2587,7 @@
 "01/04/2001","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2001","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",10.94378164,10.94378164,0
 "01/04/2001","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/04/2001","sector","Confidencial",6.85325296,6.85325299999994,0
+"01/04/2001","sector","Confidencial",6.85325296,6.85325299999988,0
 "01/04/2001","subsector","111 Agricultura",13.297864,13.297864,0
 "01/04/2001","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2001","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2691,7 +2694,7 @@
 "01/04/2002","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2002","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",21.10399796,21.10399796,0
 "01/04/2002","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/04/2002","sector","Confidencial",0.01778204,0.0177819999998974,0
+"01/04/2002","sector","Confidencial",0.01778204,0.0177819999999542,0
 "01/04/2002","subsector","111 Agricultura",1.470335,1.470335,0
 "01/04/2002","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2002","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2798,7 +2801,7 @@
 "01/04/2003","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/2003","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",13.812142,13.812142,0
 "01/04/2003","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/04/2003","sector","Confidencial",0.02084097,0.0208410000001891,0
+"01/04/2003","sector","Confidencial",0.02084097,0.0208409999999617,0
 "01/04/2003","subsector","111 Agricultura",0,0,0
 "01/04/2003","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2003","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2905,7 +2908,7 @@
 "01/04/2004","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/2004","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",14.9000354,14.9000354,0
 "01/04/2004","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/04/2004","sector","Confidencial",0.045537,0.0455370000001096,0
+"01/04/2004","sector","Confidencial",0.045537,0.0455369999999959,0
 "01/04/2004","subsector","111 Agricultura",0,0,0
 "01/04/2004","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2004","subsector","113 Aprovechamiento forestal",0,0,0
@@ -2947,7 +2950,7 @@
 "01/04/2004","subsector","436 Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",-0.013895,-0.013895,0
 "01/04/2004","subsector","437 Intermediación de comercio al por mayor",0,0,0
 "01/04/2004","subsector","461 Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco",,,1
-"01/04/2004","subsector","462 Comercio al por menor en tiendas de autoservicio y departamentales",-0.056038,-0.0560380000000001,0
+"01/04/2004","subsector","462 Comercio al por menor en tiendas de autoservicio y departamentales",-0.056038,-0.056038,0
 "01/04/2004","subsector","463 Comercio al por menor de productos textiles, bisutería, accesorios de vestir y calzado",0,0,0
 "01/04/2004","subsector","464 Comercio al por menor de artículos para el cuidado de la salud",0,0,0
 "01/04/2004","subsector","465 Comercio al por menor de artículos de papelería, para el esparcimiento y otros artículos de uso personal",0,0,0
@@ -3012,7 +3015,7 @@
 "01/04/2005","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2005","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",27.14655154,27.14655154,0
 "01/04/2005","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2005","sector","Confidencial",-0.00673804,-0.0067379999998991,0
+"01/04/2005","sector","Confidencial",-0.00673804,-0.00673799999898961,0
 "01/04/2005","subsector","111 Agricultura",,,1
 "01/04/2005","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2005","subsector","113 Aprovechamiento forestal",0,0,0
@@ -3043,7 +3046,7 @@
 "01/04/2005","subsector","333 Fabricación de maquinaria y equipo",0.83202,0.83202,0
 "01/04/2005","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",142.419645,142.419645,0
 "01/04/2005","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",0.621176,0.621176,0
-"01/04/2005","subsector","336 Fabricación de equipo de transporte",-46.777224,-46.777224,0
+"01/04/2005","subsector","336 Fabricación de equipo de transporte",-46.777224,-46.7772239999999,0
 "01/04/2005","subsector","337 Fabricación de muebles, colchones y persianas",,,1
 "01/04/2005","subsector","339 Otras industrias manufactureras",0.116232,0.116232,0
 "01/04/2005","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",5.790649,5.790649,0
@@ -3112,14 +3115,14 @@
 "01/04/2006","sector","51 Información en medios masivos",10.738737,10.738737,0
 "01/04/2006","sector","52 Servicios financieros y de seguros",40.130349,40.130349,0
 "01/04/2006","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",8.070741,8.070741,0
-"01/04/2006","sector","54 Servicios profesionales, científicos y técnicos",-0.401357,-0.401357,0
+"01/04/2006","sector","54 Servicios profesionales, científicos y técnicos",-0.401357,-0.401356999999999,0
 "01/04/2006","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",19.42604,19.42604,0
 "01/04/2006","sector","61 Servicios educativos",0,0,0
 "01/04/2006","sector","62 Servicios de salud y de asistencia social",,,1
 "01/04/2006","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/2006","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",26.88710825,26.88710825,0
 "01/04/2006","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2006","sector","Confidencial",-0.16516195,-0.165161999999725,0
+"01/04/2006","sector","Confidencial",-0.16516195,-0.165161999999953,0
 "01/04/2006","subsector","111 Agricultura",,,1
 "01/04/2006","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2006","subsector","113 Aprovechamiento forestal",0,0,0
@@ -3191,7 +3194,7 @@
 "01/04/2006","subsector","531 Servicios inmobiliarios",8.275224,8.275224,0
 "01/04/2006","subsector","532 Servicios de alquiler de bienes muebles",0,0,0
 "01/04/2006","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",,,1
-"01/04/2006","subsector","541 Servicios profesionales, científicos y técnicos",-0.401357,-0.401357,0
+"01/04/2006","subsector","541 Servicios profesionales, científicos y técnicos",-0.401357,-0.401356999999999,0
 "01/04/2006","subsector","561 Servicios de apoyo a los negocios",19.42604,19.42604,0
 "01/04/2006","subsector","562 Manejo de residuos y desechos, y servicios de remediación",0,0,0
 "01/04/2006","subsector","611 Servicios educativos",0,0,0
@@ -3226,7 +3229,7 @@
 "01/04/2007","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2007","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",23.02660182,23.02660182,0
 "01/04/2007","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2007","sector","Confidencial",0.01350398,0.0135039999996707,0
+"01/04/2007","sector","Confidencial",0.01350398,0.0135040000000117,0
 "01/04/2007","subsector","111 Agricultura",0,0,0
 "01/04/2007","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2007","subsector","113 Aprovechamiento forestal",0,0,0
@@ -3333,7 +3336,7 @@
 "01/04/2008","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2008","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",6.60776497,6.60776497,0
 "01/04/2008","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2008","sector","Confidencial",-0.28548997,-0.285490000000323,0
+"01/04/2008","sector","Confidencial",-0.28548997,-0.285489999999982,0
 "01/04/2008","subsector","111 Agricultura",0,0,0
 "01/04/2008","subsector","112 Cría y explotación de animales",,,1
 "01/04/2008","subsector","113 Aprovechamiento forestal",0,0,0
@@ -3440,7 +3443,7 @@
 "01/04/2009","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2009","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",1.99697519,1.99697519,0
 "01/04/2009","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2009","sector","Confidencial",0.77512996,0.775130000000047,0
+"01/04/2009","sector","Confidencial",0.77512996,0.77512999999999,0
 "01/04/2009","subsector","111 Agricultura",0,0,0
 "01/04/2009","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2009","subsector","113 Aprovechamiento forestal",0,0,0
@@ -3547,7 +3550,7 @@
 "01/04/2010","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2010","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",19.62826943,19.62826943,0
 "01/04/2010","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2010","sector","Confidencial",-0.13611498,0.0144199999997454,0
+"01/04/2010","sector","Confidencial",-0.13611498,0.0144199999999728,0
 "01/04/2010","subsector","111 Agricultura",,,1
 "01/04/2010","subsector","112 Cría y explotación de animales",,,1
 "01/04/2010","subsector","113 Aprovechamiento forestal",0,0,0
@@ -3637,7 +3640,7 @@
 "01/04/2010","Tipo de inversión","Cuentas entre compañías",80.23277,80.23277,0
 "01/04/2010","Tipo de inversión","Nuevas inversiones",585.70442,585.70442,0
 "01/04/2010","Tipo de inversión","Reinversión de utilidades",116.415,116.415,0
-"01/04/2011","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",4.491114,4.491114,0
+"01/04/2011","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",4.491114,4.49346584,0
 "01/04/2011","sector","21 Minería",5.581847,5.581847,0
 "01/04/2011","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",,,1
 "01/04/2011","sector","23 Construcción",0.139401,0.139401,0
@@ -3654,11 +3657,11 @@
 "01/04/2011","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2011","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",33.80252479,33.80252479,0
 "01/04/2011","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2011","sector","Confidencial",0.12425802,0.181903000000148,0
+"01/04/2011","sector","Confidencial",0.12425802,0.181902999999977,0
 "01/04/2011","subsector","111 Agricultura",,,1
 "01/04/2011","subsector","112 Cría y explotación de animales",,,1
 "01/04/2011","subsector","113 Aprovechamiento forestal",0,0,0
-"01/04/2011","subsector","115 Servicios relacionados con las actividades agropecuarias y forestales",3.35519,3.35519,0
+"01/04/2011","subsector","115 Servicios relacionados con las actividades agropecuarias y forestales",3.35519,3.35754184,0
 "01/04/2011","subsector","211 Extracción de petróleo y gas",0,0,0
 "01/04/2011","subsector","212 Minería de minerales metálicos y no metálicos, excepto petróleo y gas",5.607006,5.607006,0
 "01/04/2011","subsector","213 Servicios relacionados con la minería",,,1
@@ -3742,11 +3745,11 @@
 "01/04/2011","subsector","812 Servicios personales",0,0,0
 "01/04/2011","subsector","813 Asociaciones y organizaciones",,,1
 "01/04/2011","Tipo de inversión","Cuentas entre compañías",67.30705,67.30705,0
-"01/04/2011","Tipo de inversión","Nuevas inversiones",80.85691,80.85691,0
+"01/04/2011","Tipo de inversión","Nuevas inversiones",80.85691,80.85927,0
 "01/04/2011","Tipo de inversión","Reinversión de utilidades",253.76506,253.76506,0
 "01/04/2012","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",,,1
 "01/04/2012","sector","21 Minería",3.662017,3.662017,0
-"01/04/2012","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",-0.09995,0.00139499999999992,0
+"01/04/2012","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",-0.09995,0.00139499999999997,0
 "01/04/2012","sector","23 Construcción",9.31468106,9.31468106,0
 "01/04/2012","sector","31-33 Industrias manufactureras",100.0119399,100.0119399,0
 "01/04/2012","sector","43 y 46 Comercio",35.865895,35.865895,0
@@ -3761,7 +3764,7 @@
 "01/04/2012","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/2012","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",32.582392,32.582392,0
 "01/04/2012","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2012","sector","Confidencial",0.77137199,0.771372000000099,0
+"01/04/2012","sector","Confidencial",0.77137199,0.771372000000042,0
 "01/04/2012","subsector","111 Agricultura",,,1
 "01/04/2012","subsector","112 Cría y explotación de animales",,,1
 "01/04/2012","subsector","113 Aprovechamiento forestal",0,0,0
@@ -3962,7 +3965,7 @@
 "01/04/2014","sector","21 Minería",,,1
 "01/04/2014","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",1.572592,1.686101,0
 "01/04/2014","sector","23 Construcción",34.579392,34.579392,0
-"01/04/2014","sector","31-33 Industrias manufactureras",44.64155338,44.6415533799999,0
+"01/04/2014","sector","31-33 Industrias manufactureras",44.64155338,44.6415533800001,0
 "01/04/2014","sector","43 y 46 Comercio",59.4770093,59.4770093,0
 "01/04/2014","sector","48 y 49 Transportes, correos y almacenamiento",32.73917541,32.73917541,0
 "01/04/2014","sector","51 Información en medios masivos",-191.221574,-191.221574,0
@@ -3975,7 +3978,7 @@
 "01/04/2014","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/04/2014","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",15.75296644,15.75296644,0
 "01/04/2014","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/04/2014","sector","Confidencial",18.439556,18.4395560000002,0
+"01/04/2014","sector","Confidencial",18.439556,18.4395559999997,0
 "01/04/2014","subsector","111 Agricultura",,,1
 "01/04/2014","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2014","subsector","113 Aprovechamiento forestal",0,0,0
@@ -4082,7 +4085,7 @@
 "01/04/2015","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/2015","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",15.96480882,15.96480882,0
 "01/04/2015","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2015","sector","Confidencial",-2.74485938,-2.73338246000014,0
+"01/04/2015","sector","Confidencial",-2.74485938,-2.73338245999997,0
 "01/04/2015","subsector","111 Agricultura",,,1
 "01/04/2015","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2015","subsector","113 Aprovechamiento forestal",0,0,0
@@ -4189,7 +4192,7 @@
 "01/04/2016","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/2016","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",6.672103,6.672103,0
 "01/04/2016","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/04/2016","sector","Confidencial",0.02539894,0.0253989999998225,0
+"01/04/2016","sector","Confidencial",0.02539894,0.0253989999999931,0
 "01/04/2016","subsector","111 Agricultura",-1.34105613,-1.34105613,0
 "01/04/2016","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2016","subsector","113 Aprovechamiento forestal",0,0,0
@@ -4283,8 +4286,8 @@
 "01/04/2017","sector","21 Minería",0,0,0
 "01/04/2017","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",2.80540841,20.50554505,0
 "01/04/2017","sector","23 Construcción",13.5548161,,1
-"01/04/2017","sector","31-33 Industrias manufactureras",90.31012605,99.73608901,0
-"01/04/2017","sector","43 y 46 Comercio",2.0310317,8.35823989999999,0
+"01/04/2017","sector","31-33 Industrias manufactureras",90.31012605,99.7360890099999,0
+"01/04/2017","sector","43 y 46 Comercio",2.0310317,8.3582399,0
 "01/04/2017","sector","48 y 49 Transportes, correos y almacenamiento",6.74002831,21.547576,0
 "01/04/2017","sector","51 Información en medios masivos",-0.89351323,1.95880268,0
 "01/04/2017","sector","52 Servicios financieros y de seguros",-8.64802468,-22.83099397,0
@@ -4296,7 +4299,7 @@
 "01/04/2017","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/2017","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",21.00199736,27.56910698,0
 "01/04/2017","sector","81 Otros servicios excepto actividades gubernamentales",1.90964054,,1
-"01/04/2017","sector","Confidencial",4e-08,18.22809799,0
+"01/04/2017","sector","Confidencial",4e-08,18.2280979900001,0
 "01/04/2017","subsector","111 Agricultura",-0.16275302,-3.15708257,0
 "01/04/2017","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2017","subsector","113 Aprovechamiento forestal",0,0,0
@@ -4510,7 +4513,7 @@
 "01/04/2019","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/2019","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",15.6875593,25.99305265,0
 "01/04/2019","sector","81 Otros servicios excepto actividades gubernamentales",9.47622674,9.48145432,0
-"01/04/2019","sector","Confidencial",16.05464298,-9.34119218000006,0
+"01/04/2019","sector","Confidencial",16.05464298,-9.34119218000001,0
 "01/04/2019","subsector","111 Agricultura",,25.25273447,0
 "01/04/2019","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2019","subsector","113 Aprovechamiento forestal",0,0,0
@@ -4604,20 +4607,20 @@
 "01/04/2020","sector","21 Minería",28.18702467,28.18702467,0
 "01/04/2020","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",-4.14812373,-4.14812373,0
 "01/04/2020","sector","23 Construcción",-4.70206236,-4.70206236,0
-"01/04/2020","sector","31-33 Industrias manufactureras",262.663205,261.8503055,0
-"01/04/2020","sector","43 y 46 Comercio",74.74755015,88.65087804,0
+"01/04/2020","sector","31-33 Industrias manufactureras",262.663205,261.85099041,0
+"01/04/2020","sector","43 y 46 Comercio",74.74755015,88.60335834,0
 "01/04/2020","sector","48 y 49 Transportes, correos y almacenamiento",191.9648221,194.17089451,0
 "01/04/2020","sector","51 Información en medios masivos",13.9298426,13.74675834,0
 "01/04/2020","sector","52 Servicios financieros y de seguros",0.15821907,-0.74614649,0
 "01/04/2020","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",,,1
-"01/04/2020","sector","54 Servicios profesionales, científicos y técnicos",-0.05575021,-0.0557502099999996,0
+"01/04/2020","sector","54 Servicios profesionales, científicos y técnicos",-0.05575021,-0.055321110000001,0
 "01/04/2020","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",4.93681832,4.93681832,0
 "01/04/2020","sector","61 Servicios educativos",0,0,0
 "01/04/2020","sector","62 Servicios de salud y de asistencia social",0,0,0
 "01/04/2020","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/04/2020","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",12.22271925,16.94052669,0
 "01/04/2020","sector","81 Otros servicios excepto actividades gubernamentales",0,,1
-"01/04/2020","sector","Confidencial",-0.44292329,-0.0137829400001692,0
+"01/04/2020","sector","Confidencial",-0.44292329,-0.0137829399990324,0
 "01/04/2020","subsector","111 Agricultura",,28.8436093,0
 "01/04/2020","subsector","112 Cría y explotación de animales",0,0,0
 "01/04/2020","subsector","113 Aprovechamiento forestal",0,0,0
@@ -4650,12 +4653,12 @@
 "01/04/2020","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",-4.76541408,-4.76519951,0
 "01/04/2020","subsector","336 Fabricación de equipo de transporte",-51.02856911,-51.02856911,0
 "01/04/2020","subsector","337 Fabricación de muebles, colchones y persianas",0,0,0
-"01/04/2020","subsector","339 Otras industrias manufactureras",-0.5610328,-0.5610328,0
+"01/04/2020","subsector","339 Otras industrias manufactureras",-0.5610328,-0.56034789,0
 "01/04/2020","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",82.51466475,82.51466475,0
 "01/04/2020","subsector","432 Comercio al por mayor de productos textiles y calzado",0.88537381,0.88537381,0
 "01/04/2020","subsector","433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",3.75478635,16.42814188,0
 "01/04/2020","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",-3.86498125,-3.86498125,0
-"01/04/2020","subsector","435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",-8.40498081,-7.17500845,0
+"01/04/2020","subsector","435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",-8.40498081,-7.22253244,0
 "01/04/2020","subsector","436 Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",0,0,0
 "01/04/2020","subsector","437 Intermediación de comercio al por mayor",,,1
 "01/04/2020","subsector","461 Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco",0,0,0
@@ -4689,7 +4692,7 @@
 "01/04/2020","subsector","531 Servicios inmobiliarios",,,1
 "01/04/2020","subsector","532 Servicios de alquiler de bienes muebles",0,0,0
 "01/04/2020","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",0,0,0
-"01/04/2020","subsector","541 Servicios profesionales, científicos y técnicos",-0.05575021,-0.0557502099999996,0
+"01/04/2020","subsector","541 Servicios profesionales, científicos y técnicos",-0.05575021,-0.055321110000001,0
 "01/04/2020","subsector","561 Servicios de apoyo a los negocios",4.93681832,4.93681832,0
 "01/04/2020","subsector","562 Manejo de residuos y desechos, y servicios de remediación",0,0,0
 "01/04/2020","subsector","611 Servicios educativos",0,0,0
@@ -4705,7 +4708,7 @@
 "01/04/2020","subsector","812 Servicios personales",0,,1
 "01/04/2020","subsector","813 Asociaciones y organizaciones",0,0,0
 "01/04/2020","Tipo de inversión","Cuentas entre compañías",437.4203421,463.35268,0
-"01/04/2020","Tipo de inversión","Nuevas inversiones",124.0564152,141.87693,0
+"01/04/2020","Tipo de inversión","Nuevas inversiones",124.0564152,141.83053,0
 "01/04/2020","Tipo de inversión","Reinversión de utilidades",19.66678799,23.36114,0
 "01/07/1999","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",,,1
 "01/07/1999","sector","21 Minería",,,1
@@ -4724,7 +4727,7 @@
 "01/07/1999","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/07/1999","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",9.03336,9.03336,0
 "01/07/1999","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/07/1999","sector","Confidencial",-0.199416,-0.199415999999928,0
+"01/07/1999","sector","Confidencial",-0.199416,-0.199416000000014,0
 "01/07/1999","subsector","111 Agricultura",,,1
 "01/07/1999","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/1999","subsector","113 Aprovechamiento forestal",0,0,0
@@ -4755,7 +4758,7 @@
 "01/07/1999","subsector","333 Fabricación de maquinaria y equipo",4.551748,4.551748,0
 "01/07/1999","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",96.165656,96.165656,0
 "01/07/1999","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",0.561367,0.561367,0
-"01/07/1999","subsector","336 Fabricación de equipo de transporte",0.654499,0.654499,0
+"01/07/1999","subsector","336 Fabricación de equipo de transporte",0.654499,0.654498999999999,0
 "01/07/1999","subsector","337 Fabricación de muebles, colchones y persianas",,,1
 "01/07/1999","subsector","339 Otras industrias manufactureras",0.542694,0.542694,0
 "01/07/1999","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",,,1
@@ -4831,7 +4834,7 @@
 "01/07/2000","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/07/2000","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",43.56962794,43.56962794,0
 "01/07/2000","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/07/2000","sector","Confidencial",2.20550396,2.20550399999996,0
+"01/07/2000","sector","Confidencial",2.20550396,2.20550400000002,0
 "01/07/2000","subsector","111 Agricultura",,,1
 "01/07/2000","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2000","subsector","113 Aprovechamiento forestal",0,0,0
@@ -4862,7 +4865,7 @@
 "01/07/2000","subsector","333 Fabricación de maquinaria y equipo",0.401113,0.401113,0
 "01/07/2000","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",106.961988,106.961988,0
 "01/07/2000","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",61.455455,61.455455,0
-"01/07/2000","subsector","336 Fabricación de equipo de transporte",0.015001,0.0150009999999994,0
+"01/07/2000","subsector","336 Fabricación de equipo de transporte",0.015001,0.0150009999999999,0
 "01/07/2000","subsector","337 Fabricación de muebles, colchones y persianas",,,1
 "01/07/2000","subsector","339 Otras industrias manufactureras",2.386964,2.386964,0
 "01/07/2000","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",7.299493,7.299493,0
@@ -4938,7 +4941,7 @@
 "01/07/2001","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/07/2001","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",1.36457706,1.36457706,0
 "01/07/2001","sector","81 Otros servicios excepto actividades gubernamentales",-4.194572,-4.194572,0
-"01/07/2001","sector","Confidencial",10.31800604,10.3180060000002,0
+"01/07/2001","sector","Confidencial",10.31800604,10.318006,0
 "01/07/2001","subsector","111 Agricultura",,,1
 "01/07/2001","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2001","subsector","113 Aprovechamiento forestal",0,0,0
@@ -5152,7 +5155,7 @@
 "01/07/2003","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0.009311,0.009311,0
 "01/07/2003","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",15.2454414,15.2454414,0
 "01/07/2003","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/07/2003","sector","Confidencial",0.067697,0.0676970000000381,0
+"01/07/2003","sector","Confidencial",0.067697,0.0676969999999955,0
 "01/07/2003","subsector","111 Agricultura",0,0,0
 "01/07/2003","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2003","subsector","113 Aprovechamiento forestal",0,0,0
@@ -5357,7 +5360,7 @@
 "01/07/2005","sector","43 y 46 Comercio",11.989648,11.989648,0
 "01/07/2005","sector","48 y 49 Transportes, correos y almacenamiento",0.109506,0.109506,0
 "01/07/2005","sector","51 Información en medios masivos",9.911985,9.911985,0
-"01/07/2005","sector","52 Servicios financieros y de seguros",-0.681346,-0.681346000000001,0
+"01/07/2005","sector","52 Servicios financieros y de seguros",-0.681346,-0.681346,0
 "01/07/2005","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",8.064719,8.064719,0
 "01/07/2005","sector","54 Servicios profesionales, científicos y técnicos",0.152408,0.152408,0
 "01/07/2005","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",-1.699578,-1.699578,0
@@ -5366,7 +5369,7 @@
 "01/07/2005","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/07/2005","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",55.18344399,55.18344399,0
 "01/07/2005","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/07/2005","sector","Confidencial",1.20706901,1.20706899999979,0
+"01/07/2005","sector","Confidencial",1.20706901,1.20706899999999,0
 "01/07/2005","subsector","111 Agricultura",0,0,0
 "01/07/2005","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2005","subsector","113 Aprovechamiento forestal",0,0,0
@@ -5397,7 +5400,7 @@
 "01/07/2005","subsector","333 Fabricación de maquinaria y equipo",1.010421,1.010421,0
 "01/07/2005","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",33.889707,33.889707,0
 "01/07/2005","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",0.787316,0.787316,0
-"01/07/2005","subsector","336 Fabricación de equipo de transporte",2.941271,2.94127099999999,0
+"01/07/2005","subsector","336 Fabricación de equipo de transporte",2.941271,2.94127099999998,0
 "01/07/2005","subsector","337 Fabricación de muebles, colchones y persianas",,,1
 "01/07/2005","subsector","339 Otras industrias manufactureras",0.32546,0.32546,0
 "01/07/2005","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",-3.33057,-3.33057,0
@@ -5473,7 +5476,7 @@
 "01/07/2006","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/07/2006","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",31.23230714,31.23230714,0
 "01/07/2006","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/07/2006","sector","Confidencial",0.00064196,0.000642000000084408,0
+"01/07/2006","sector","Confidencial",0.00064196,0.000641999999999143,0
 "01/07/2006","subsector","111 Agricultura",0,0,0
 "01/07/2006","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2006","subsector","113 Aprovechamiento forestal",0,0,0
@@ -5567,7 +5570,7 @@
 "01/07/2007","sector","21 Minería",0.760113,0.760113,0
 "01/07/2007","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",,,1
 "01/07/2007","sector","23 Construcción",2.878138,2.878138,0
-"01/07/2007","sector","31-33 Industrias manufactureras",-59.368864,-59.3688639999999,0
+"01/07/2007","sector","31-33 Industrias manufactureras",-59.368864,-59.368864,0
 "01/07/2007","sector","43 y 46 Comercio",-19.801133,-19.801133,0
 "01/07/2007","sector","48 y 49 Transportes, correos y almacenamiento",-5.729888,-5.729888,0
 "01/07/2007","sector","51 Información en medios masivos",0.07261,0.07261,0
@@ -5580,7 +5583,7 @@
 "01/07/2007","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",-0.004507,-0.004507,0
 "01/07/2007","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",3.44378679,3.44378679,0
 "01/07/2007","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/07/2007","sector","Confidencial",1.523618,1.5236179999999,0
+"01/07/2007","sector","Confidencial",1.523618,1.52361800000003,0
 "01/07/2007","subsector","111 Agricultura",,,1
 "01/07/2007","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2007","subsector","113 Aprovechamiento forestal",0,0,0
@@ -5611,7 +5614,7 @@
 "01/07/2007","subsector","333 Fabricación de maquinaria y equipo",-31.580761,-32.859628,0
 "01/07/2007","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",14.28414,14.28414,0
 "01/07/2007","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",3.248428,3.248428,0
-"01/07/2007","subsector","336 Fabricación de equipo de transporte",-2.194202,-0.915334999999998,0
+"01/07/2007","subsector","336 Fabricación de equipo de transporte",-2.194202,-0.915335000000001,0
 "01/07/2007","subsector","337 Fabricación de muebles, colchones y persianas",,,1
 "01/07/2007","subsector","339 Otras industrias manufactureras",1.250556,1.250556,0
 "01/07/2007","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",,,1
@@ -5687,7 +5690,7 @@
 "01/07/2008","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/07/2008","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",4.72989044,4.72989044,0
 "01/07/2008","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/07/2008","sector","Confidencial",7.75214696,7.75214699999995,0
+"01/07/2008","sector","Confidencial",7.75214696,7.75214700000001,0
 "01/07/2008","subsector","111 Agricultura",0.04564,0.04564,0
 "01/07/2008","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2008","subsector","113 Aprovechamiento forestal",0,0,0
@@ -5716,7 +5719,7 @@
 "01/07/2008","subsector","331 Industrias metálicas básicas",16.419768,16.419768,0
 "01/07/2008","subsector","332 Fabricación de productos metálicos",10.399214,10.399214,0
 "01/07/2008","subsector","333 Fabricación de maquinaria y equipo",-7.383663,-7.383663,0
-"01/07/2008","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",-1.822506,-1.82250599999998,0
+"01/07/2008","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",-1.822506,-1.82250599999999,0
 "01/07/2008","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",1.076991,1.076991,0
 "01/07/2008","subsector","336 Fabricación de equipo de transporte",-21.472264,-21.472264,0
 "01/07/2008","subsector","337 Fabricación de muebles, colchones y persianas",,,1
@@ -5794,7 +5797,7 @@
 "01/07/2009","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0.003808,0.003808,0
 "01/07/2009","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",8.51220934,8.51220934,0
 "01/07/2009","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/07/2009","sector","Confidencial",0.01130803,0.0113080000000423,0
+"01/07/2009","sector","Confidencial",0.01130803,0.0113079999999854,0
 "01/07/2009","subsector","111 Agricultura",0,0,0
 "01/07/2009","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2009","subsector","113 Aprovechamiento forestal",0,0,0
@@ -5901,7 +5904,7 @@
 "01/07/2010","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/07/2010","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",21.57656321,21.57656321,0
 "01/07/2010","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/07/2010","sector","Confidencial",0.01802497,0.0180250000002502,0
+"01/07/2010","sector","Confidencial",0.01802497,0.018024999999966,0
 "01/07/2010","subsector","111 Agricultura",,,1
 "01/07/2010","subsector","112 Cría y explotación de animales",,,1
 "01/07/2010","subsector","113 Aprovechamiento forestal",0,0,0
@@ -6008,7 +6011,7 @@
 "01/07/2011","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/07/2011","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",31.59788409,31.59788409,0
 "01/07/2011","sector","81 Otros servicios excepto actividades gubernamentales",-0.002818,-0.002818,0
-"01/07/2011","sector","Confidencial",5e-08,-1.4210854715202e-13,0
+"01/07/2011","sector","Confidencial",5e-08,0,0
 "01/07/2011","subsector","111 Agricultura",,,1
 "01/07/2011","subsector","112 Cría y explotación de animales",,,1
 "01/07/2011","subsector","113 Aprovechamiento forestal",0,0,0
@@ -6097,7 +6100,7 @@
 "01/07/2011","subsector","813 Asociaciones y organizaciones",,,1
 "01/07/2011","Tipo de inversión","Cuentas entre compañías",-42.20658,-42.20658,0
 "01/07/2011","Tipo de inversión","Nuevas inversiones",138.01982,138.01982,0
-"01/07/2011","Tipo de inversión","Reinversión de utilidades",43.0257,43.02571,0
+"01/07/2011","Tipo de inversión","Reinversión de utilidades",43.0257,43.0257,0
 "01/07/2012","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",0.814722,0.814722,0
 "01/07/2012","sector","21 Minería",,,1
 "01/07/2012","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",0,0,0
@@ -6115,7 +6118,7 @@
 "01/07/2012","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/07/2012","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",22.41314998,22.41314998,0
 "01/07/2012","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/07/2012","sector","Confidencial",1.07863207,1.07863199999997,0
+"01/07/2012","sector","Confidencial",1.07863207,1.07863200000003,0
 "01/07/2012","subsector","111 Agricultura",,,1
 "01/07/2012","subsector","112 Cría y explotación de animales",,,1
 "01/07/2012","subsector","113 Aprovechamiento forestal",0,0,0
@@ -6360,13 +6363,13 @@
 "01/07/2014","subsector","333 Fabricación de maquinaria y equipo",-0.805599,-0.805599,0
 "01/07/2014","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",53.30217474,53.30217474,0
 "01/07/2014","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",2.300965,2.300965,0
-"01/07/2014","subsector","336 Fabricación de equipo de transporte",20.727164,20.7271639999999,0
+"01/07/2014","subsector","336 Fabricación de equipo de transporte",20.727164,20.7271639999998,0
 "01/07/2014","subsector","337 Fabricación de muebles, colchones y persianas",0,0,0
 "01/07/2014","subsector","339 Otras industrias manufactureras",,,1
 "01/07/2014","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",,,1
 "01/07/2014","subsector","432 Comercio al por mayor de productos textiles y calzado",,,1
 "01/07/2014","subsector","433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",6.984777,6.984777,0
-"01/07/2014","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",-0.50927923,-0.509279230000001,0
+"01/07/2014","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",-0.50927923,-0.50927923,0
 "01/07/2014","subsector","435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",-1.085239,-1.085239,0
 "01/07/2014","subsector","436 Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",0,0,0
 "01/07/2014","subsector","437 Intermediación de comercio al por mayor",0.090093,0.090093,0
@@ -6436,7 +6439,7 @@
 "01/07/2015","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/07/2015","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",24.81448585,24.81448585,0
 "01/07/2015","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/07/2015","sector","Confidencial",74.90437561,74.9043755200006,0
+"01/07/2015","sector","Confidencial",74.90437561,74.90437552,0
 "01/07/2015","subsector","111 Agricultura",,,1
 "01/07/2015","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2015","subsector","113 Aprovechamiento forestal",0,0,0
@@ -6534,7 +6537,7 @@
 "01/07/2016","sector","43 y 46 Comercio",-32.01329994,-32.01063092,0
 "01/07/2016","sector","48 y 49 Transportes, correos y almacenamiento",5.456318,5.456318,0
 "01/07/2016","sector","51 Información en medios masivos",0.452374,0.452374,0
-"01/07/2016","sector","52 Servicios financieros y de seguros",-2.3499831,-2.34998310000001,0
+"01/07/2016","sector","52 Servicios financieros y de seguros",-2.3499831,-2.3499831,0
 "01/07/2016","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",1.07828092,1.07828092,0
 "01/07/2016","sector","54 Servicios profesionales, científicos y técnicos",-0.03893138,-0.03893138,0
 "01/07/2016","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",0.889892,0.889892,0
@@ -6543,7 +6546,7 @@
 "01/07/2016","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/07/2016","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",11.91628037,11.91628037,0
 "01/07/2016","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/07/2016","sector","Confidencial",0.001335,0.00133500000001163,0
+"01/07/2016","sector","Confidencial",0.001335,0.00133499999999742,0
 "01/07/2016","subsector","111 Agricultura",4.20738925,4.20738925,0
 "01/07/2016","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2016","subsector","113 Aprovechamiento forestal",0,0,0
@@ -6747,7 +6750,7 @@
 "01/07/2018","sector","31-33 Industrias manufactureras",181.344356,201.43430463,0
 "01/07/2018","sector","43 y 46 Comercio",8.132741,-4.26004343,0
 "01/07/2018","sector","48 y 49 Transportes, correos y almacenamiento",4.184166,5.37568492,0
-"01/07/2018","sector","51 Información en medios masivos",-0.836436,0.0253164199999998,0
+"01/07/2018","sector","51 Información en medios masivos",-0.836436,0.02531642,0
 "01/07/2018","sector","52 Servicios financieros y de seguros",-33.236319,-8.44367467,0
 "01/07/2018","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",23.938792,,1
 "01/07/2018","sector","54 Servicios profesionales, científicos y técnicos",1.102252,3.10289857,0
@@ -6757,7 +6760,7 @@
 "01/07/2018","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0.000158,,1
 "01/07/2018","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",27.094366,33.95619826,0
 "01/07/2018","sector","81 Otros servicios excepto actividades gubernamentales",-1.091959,-1.09158894,0
-"01/07/2018","sector","Confidencial",0,15.4100085799999,0
+"01/07/2018","sector","Confidencial",0,15.41000858,0
 "01/07/2018","subsector","111 Agricultura",1.738315,1.73963286,0
 "01/07/2018","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2018","subsector","113 Aprovechamiento forestal",0,0,0
@@ -6864,7 +6867,7 @@
 "01/07/2019","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/07/2019","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",10.58603933,16.19873198,0
 "01/07/2019","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/07/2019","sector","Confidencial",-18.89600922,-17.5930036599998,0
+"01/07/2019","sector","Confidencial",-18.89600922,-17.5930036599999,0
 "01/07/2019","subsector","111 Agricultura",5.01350508,5.01350508,0
 "01/07/2019","subsector","112 Cría y explotación de animales",0,0,0
 "01/07/2019","subsector","113 Aprovechamiento forestal",0,0,0
@@ -6902,7 +6905,7 @@
 "01/07/2019","subsector","432 Comercio al por mayor de productos textiles y calzado",,0.3156405,0
 "01/07/2019","subsector","433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",5.24125919,3.89939596,0
 "01/07/2019","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",5.43494588,5.43494588,0
-"01/07/2019","subsector","435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",-1.58626667,-0.0185753500000008,0
+"01/07/2019","subsector","435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",-1.58626667,-0.0185753500000017,0
 "01/07/2019","subsector","436 Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",0,0,0
 "01/07/2019","subsector","437 Intermediación de comercio al por mayor",,,1
 "01/07/2019","subsector","461 Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco",0,,1
@@ -6958,13 +6961,13 @@
 "01/07/2020","sector","21 Minería",,,1
 "01/07/2020","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",-1.69787435,-1.69787435,0
 "01/07/2020","sector","23 Construcción",2.70092591,2.70092591,0
-"01/07/2020","sector","31-33 Industrias manufactureras",-41.69681879,-51.75130823,0
-"01/07/2020","sector","43 y 46 Comercio",14.11870654,14.11870654,0
+"01/07/2020","sector","31-33 Industrias manufactureras",-41.69681879,-51.7492298,0
+"01/07/2020","sector","43 y 46 Comercio",14.11870654,12.66326495,0
 "01/07/2020","sector","48 y 49 Transportes, correos y almacenamiento",16.68832258,16.20095579,0
 "01/07/2020","sector","51 Información en medios masivos",3.97929846,3.97929846,0
 "01/07/2020","sector","52 Servicios financieros y de seguros",72.17101403,71.21835399,0
 "01/07/2020","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",,,1
-"01/07/2020","sector","54 Servicios profesionales, científicos y técnicos",3.09198322,2.97771264,0
+"01/07/2020","sector","54 Servicios profesionales, científicos y técnicos",3.09198322,2.9876579,0
 "01/07/2020","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",,,1
 "01/07/2020","sector","61 Servicios educativos",0,0,0
 "01/07/2020","sector","62 Servicios de salud y de asistencia social",0,0,0
@@ -6984,7 +6987,7 @@
 "01/07/2020","subsector","236 Edificación",0,0,0
 "01/07/2020","subsector","237 Construcción de obras de ingeniería civil",0.78133972,0.78133972,0
 "01/07/2020","subsector","238 Trabajos especializados para la construcción",,,1
-"01/07/2020","subsector","311 Industria alimentaria",-53.79411109,-53.43246027,0
+"01/07/2020","subsector","311 Industria alimentaria",-53.79411109,-53.43019998,0
 "01/07/2020","subsector","312 Industria de las bebidas y del tabaco",18.25253714,16.83459871,0
 "01/07/2020","subsector","313 Fabricación de insumos textiles y acabado de textiles",,,1
 "01/07/2020","subsector","314 Fabricación de productos textiles, excepto prendas de vestir",0,0,0
@@ -6994,7 +6997,7 @@
 "01/07/2020","subsector","322 Industria del papel",2.07161259,2.07161259,0
 "01/07/2020","subsector","323 Impresión e industrias conexas",,,1
 "01/07/2020","subsector","324 Fabricación de productos derivados del petróleo y del carbón",0,0,0
-"01/07/2020","subsector","325 Industria química",2.60233957,-6.39586226,0
+"01/07/2020","subsector","325 Industria química",2.60233957,-6.39604412,0
 "01/07/2020","subsector","326 Industria del plástico y del hule",-54.16781845,-54.16781845,0
 "01/07/2020","subsector","327 Fabricación de productos a base de minerales no metálicos",,,1
 "01/07/2020","subsector","331 Industrias metálicas básicas",-11.28498199,-11.28498199,0
@@ -7006,9 +7009,9 @@
 "01/07/2020","subsector","337 Fabricación de muebles, colchones y persianas",0,0,0
 "01/07/2020","subsector","339 Otras industrias manufactureras",,,1
 "01/07/2020","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",,,1
-"01/07/2020","subsector","432 Comercio al por mayor de productos textiles y calzado",0.0332166000000001,0.0332166000000001,0
+"01/07/2020","subsector","432 Comercio al por mayor de productos textiles y calzado",0.0332166000000001,0.0332166,0
 "01/07/2020","subsector","433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",4.65371913,4.65371913,0
-"01/07/2020","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",2.02750208,2.02750208,0
+"01/07/2020","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",2.02750208,0.572060489999999,0
 "01/07/2020","subsector","435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",-2.06260548,-2.06260548,0
 "01/07/2020","subsector","436 Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",0,0,0
 "01/07/2020","subsector","437 Intermediación de comercio al por mayor",,,1
@@ -7043,7 +7046,7 @@
 "01/07/2020","subsector","531 Servicios inmobiliarios",,,1
 "01/07/2020","subsector","532 Servicios de alquiler de bienes muebles",0,0,0
 "01/07/2020","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",0,0,0
-"01/07/2020","subsector","541 Servicios profesionales, científicos y técnicos",3.09198322,2.97771264,0
+"01/07/2020","subsector","541 Servicios profesionales, científicos y técnicos",3.09198322,2.9876579,0
 "01/07/2020","subsector","561 Servicios de apoyo a los negocios",,,1
 "01/07/2020","subsector","562 Manejo de residuos y desechos, y servicios de remediación",0,0,0
 "01/07/2020","subsector","611 Servicios educativos",0,0,0
@@ -7058,8 +7061,8 @@
 "01/07/2020","subsector","811 Servicios de reparación y mantenimiento",,,1
 "01/07/2020","subsector","812 Servicios personales",,,1
 "01/07/2020","subsector","813 Asociaciones y organizaciones",0,0,0
-"01/07/2020","Tipo de inversión","Cuentas entre compañías",-76.75303,-82.98685,0
-"01/07/2020","Tipo de inversión","Nuevas inversiones",103.46581,102.60592,0
+"01/07/2020","Tipo de inversión","Cuentas entre compañías",-76.75303,-84.44229,0
+"01/07/2020","Tipo de inversión","Nuevas inversiones",103.46581,102.61795,0
 "01/07/2020","Tipo de inversión","Reinversión de utilidades",34.03763,28.25807,0
 "01/10/1999","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",5.761961,5.761961,0
 "01/10/1999","sector","21 Minería",,,1
@@ -7092,7 +7095,7 @@
 "01/10/1999","subsector","237 Construcción de obras de ingeniería civil",,,1
 "01/10/1999","subsector","238 Trabajos especializados para la construcción",,,1
 "01/10/1999","subsector","311 Industria alimentaria",9.283237,9.283237,0
-"01/10/1999","subsector","312 Industria de las bebidas y del tabaco",0.928394,0.928394000000001,0
+"01/10/1999","subsector","312 Industria de las bebidas y del tabaco",0.928394,0.928394,0
 "01/10/1999","subsector","313 Fabricación de insumos textiles y acabado de textiles",0,0,0
 "01/10/1999","subsector","314 Fabricación de productos textiles, excepto prendas de vestir",1.06414,1.06414,0
 "01/10/1999","subsector","315 Fabricación de prendas de vestir",6.906438,6.906438,0
@@ -7173,7 +7176,7 @@
 "01/10/2000","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",0,0,0
 "01/10/2000","sector","23 Construcción",-0.004094,-0.004094,0
 "01/10/2000","sector","31-33 Industrias manufactureras",436.616764,436.616764,0
-"01/10/2000","sector","43 y 46 Comercio",8.85824798,8.85824798000001,0
+"01/10/2000","sector","43 y 46 Comercio",8.85824798,8.85824798,0
 "01/10/2000","sector","48 y 49 Transportes, correos y almacenamiento",3.413894,3.413894,0
 "01/10/2000","sector","51 Información en medios masivos",12.341867,12.341867,0
 "01/10/2000","sector","52 Servicios financieros y de seguros",38.102153,38.102153,0
@@ -7283,7 +7286,7 @@
 "01/10/2001","sector","43 y 46 Comercio",44.746774,44.746774,0
 "01/10/2001","sector","48 y 49 Transportes, correos y almacenamiento",1.171017,1.171017,0
 "01/10/2001","sector","51 Información en medios masivos",27.310267,27.310267,0
-"01/10/2001","sector","52 Servicios financieros y de seguros",-0.550011,-0.550010999999999,0
+"01/10/2001","sector","52 Servicios financieros y de seguros",-0.550011,-0.550011,0
 "01/10/2001","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",9.733144,9.733144,0
 "01/10/2001","sector","54 Servicios profesionales, científicos y técnicos",-6.438692,-6.438692,0
 "01/10/2001","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",-1.88109,-1.88109,0
@@ -7292,7 +7295,7 @@
 "01/10/2001","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/10/2001","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",4.870332,4.870332,0
 "01/10/2001","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/10/2001","sector","Confidencial",1.530021,1.53002100000009,0
+"01/10/2001","sector","Confidencial",1.530021,1.53002100000003,0
 "01/10/2001","subsector","111 Agricultura",2.764284,2.764284,0
 "01/10/2001","subsector","112 Cría y explotación de animales",,,1
 "01/10/2001","subsector","113 Aprovechamiento forestal",0,0,0
@@ -7399,7 +7402,7 @@
 "01/10/2002","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/10/2002","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",7.650201,7.650201,0
 "01/10/2002","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/10/2002","sector","Confidencial",-0.407149,-0.407149000000288,0
+"01/10/2002","sector","Confidencial",-0.407149,-0.407149000000004,0
 "01/10/2002","subsector","111 Agricultura",,,1
 "01/10/2002","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2002","subsector","113 Aprovechamiento forestal",0,0,0
@@ -7506,7 +7509,7 @@
 "01/10/2003","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/10/2003","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",11.15860157,11.15860157,0
 "01/10/2003","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/10/2003","sector","Confidencial",0.08231803,0.0823179999997592,0
+"01/10/2003","sector","Confidencial",0.08231803,0.0823180000001003,0
 "01/10/2003","subsector","111 Agricultura",3.378722,3.378722,0
 "01/10/2003","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2003","subsector","113 Aprovechamiento forestal",0,0,0
@@ -7536,7 +7539,7 @@
 "01/10/2003","subsector","332 Fabricación de productos metálicos",0.857804,0.857804,0
 "01/10/2003","subsector","333 Fabricación de maquinaria y equipo",4.26326,4.26326,0
 "01/10/2003","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",-10.716157,-10.716157,0
-"01/10/2003","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",-0.58388,-0.583879999999999,0
+"01/10/2003","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",-0.58388,-0.58388,0
 "01/10/2003","subsector","336 Fabricación de equipo de transporte",477.99494,477.99494,0
 "01/10/2003","subsector","337 Fabricación de muebles, colchones y persianas",,,1
 "01/10/2003","subsector","339 Otras industrias manufactureras",0.073788,0.073788,0
@@ -7613,7 +7616,7 @@
 "01/10/2004","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/10/2004","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",14.75469509,14.75469509,0
 "01/10/2004","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/10/2004","sector","Confidencial",1.27004301,1.27004299999987,0
+"01/10/2004","sector","Confidencial",1.27004301,1.27004300000004,0
 "01/10/2004","subsector","111 Agricultura",0,0,0
 "01/10/2004","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2004","subsector","113 Aprovechamiento forestal",0,0,0
@@ -7720,7 +7723,7 @@
 "01/10/2005","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",-0.036663,-0.036663,0
 "01/10/2005","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",49.22875103,49.22875103,0
 "01/10/2005","sector","81 Otros servicios excepto actividades gubernamentales",0.007201,0.007201,0
-"01/10/2005","sector","Confidencial",2.29159597,2.29159600000003,0
+"01/10/2005","sector","Confidencial",2.29159597,2.291596,0
 "01/10/2005","subsector","111 Agricultura",0,0,0
 "01/10/2005","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2005","subsector","113 Aprovechamiento forestal",0,0,0
@@ -7749,7 +7752,7 @@
 "01/10/2005","subsector","331 Industrias metálicas básicas",0.643308,0.643308,0
 "01/10/2005","subsector","332 Fabricación de productos metálicos",2.403117,2.403117,0
 "01/10/2005","subsector","333 Fabricación de maquinaria y equipo",3.832193,3.832193,0
-"01/10/2005","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",0.635994,0.635994000000002,0
+"01/10/2005","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",0.635994,0.635994000000001,0
 "01/10/2005","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",1.017327,1.017327,0
 "01/10/2005","subsector","336 Fabricación de equipo de transporte",8.433424,8.433424,0
 "01/10/2005","subsector","337 Fabricación de muebles, colchones y persianas",0,0,0
@@ -7825,9 +7828,9 @@
 "01/10/2006","sector","61 Servicios educativos",0,0,0
 "01/10/2006","sector","62 Servicios de salud y de asistencia social",0,0,0
 "01/10/2006","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
-"01/10/2006","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",23.58540136,23.58540136,0
+"01/10/2006","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",23.58540136,24.53079746,0
 "01/10/2006","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/10/2006","sector","Confidencial",-1.79910896,-1.79910900000016,0
+"01/10/2006","sector","Confidencial",-1.79910896,-1.79910899999999,0
 "01/10/2006","subsector","111 Agricultura",0,0,0
 "01/10/2006","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2006","subsector","113 Aprovechamiento forestal",0,0,0
@@ -7909,13 +7912,13 @@
 "01/10/2006","subsector","624 Otros servicios de asistencia social",0,0,0
 "01/10/2006","subsector","711 Servicios artísticos, culturales y deportivos, y otros servicios relacionados",0,0,0
 "01/10/2006","subsector","713 Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos",,,1
-"01/10/2006","subsector","721 Servicios de alojamiento temporal",23.40960536,23.40960536,0
+"01/10/2006","subsector","721 Servicios de alojamiento temporal",23.40960536,24.35500146,0
 "01/10/2006","subsector","722 Servicios de preparación de alimentos y bebidas",0.175796,0.175796,0
 "01/10/2006","subsector","811 Servicios de reparación y mantenimiento",0,0,0
 "01/10/2006","subsector","812 Servicios personales",0,0,0
 "01/10/2006","subsector","813 Asociaciones y organizaciones",0,0,0
 "01/10/2006","Tipo de inversión","Cuentas entre compañías",52.981348,52.981348,0
-"01/10/2006","Tipo de inversión","Nuevas inversiones",107.147246,107.147246,0
+"01/10/2006","Tipo de inversión","Nuevas inversiones",107.147246,108.092642,0
 "01/10/2006","Tipo de inversión","Reinversión de utilidades",2.097689,2.097689,0
 "01/10/2007","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",0.916313,0.916313,0
 "01/10/2007","sector","21 Minería",3.022228,3.022228,0
@@ -7924,7 +7927,7 @@
 "01/10/2007","sector","31-33 Industrias manufactureras",229.361221,229.361221,0
 "01/10/2007","sector","43 y 46 Comercio",-19.602265,-19.602265,0
 "01/10/2007","sector","48 y 49 Transportes, correos y almacenamiento",0.177432,0.177432,0
-"01/10/2007","sector","51 Información en medios masivos",0.393671,0.393671000000001,0
+"01/10/2007","sector","51 Información en medios masivos",0.393671,0.393671,0
 "01/10/2007","sector","52 Servicios financieros y de seguros",6.577168,6.577168,0
 "01/10/2007","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",11.400532,11.400532,0
 "01/10/2007","sector","54 Servicios profesionales, científicos y técnicos",2.336296,2.336296,0
@@ -7934,7 +7937,7 @@
 "01/10/2007","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",13.721028,13.721028,0
 "01/10/2007","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",74.16038989,74.16038989,0
 "01/10/2007","sector","81 Otros servicios excepto actividades gubernamentales",0.408695,0.408695,0
-"01/10/2007","sector","Confidencial",-0.13106589,-0.131065999999691,0
+"01/10/2007","sector","Confidencial",-0.13106589,-0.131065999999919,0
 "01/10/2007","subsector","111 Agricultura",0,0,0
 "01/10/2007","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2007","subsector","113 Aprovechamiento forestal",0,0,0
@@ -8027,9 +8030,9 @@
 "01/10/2008","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",3.218857,3.218857,0
 "01/10/2008","sector","21 Minería",1.898618,1.898618,0
 "01/10/2008","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",,,1
-"01/10/2008","sector","23 Construcción",0.567524,0.567524,0
+"01/10/2008","sector","23 Construcción",0.567524,0.567524000000001,0
 "01/10/2008","sector","31-33 Industrias manufactureras",190.480924,190.480924,0
-"01/10/2008","sector","43 y 46 Comercio",0.034606,0.0346059999999864,0
+"01/10/2008","sector","43 y 46 Comercio",0.034606,0.03460599999999,0
 "01/10/2008","sector","48 y 49 Transportes, correos y almacenamiento",1.446082,1.446082,0
 "01/10/2008","sector","51 Información en medios masivos",0.115818,0.115818,0
 "01/10/2008","sector","52 Servicios financieros y de seguros",51.304576,51.304576,0
@@ -8041,7 +8044,7 @@
 "01/10/2008","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/10/2008","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",6.03050442,6.03050442,0
 "01/10/2008","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/10/2008","sector","Confidencial",0.68910198,0.689101999999934,0
+"01/10/2008","sector","Confidencial",0.68910198,0.689101999999991,0
 "01/10/2008","subsector","111 Agricultura",,,1
 "01/10/2008","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2008","subsector","113 Aprovechamiento forestal",0,0,0
@@ -8139,7 +8142,7 @@
 "01/10/2009","sector","43 y 46 Comercio",-41.94504992,-41.94504992,0
 "01/10/2009","sector","48 y 49 Transportes, correos y almacenamiento",2.124923,2.124923,0
 "01/10/2009","sector","51 Información en medios masivos",12.995507,12.995507,0
-"01/10/2009","sector","52 Servicios financieros y de seguros",7.294033,7.294033,0
+"01/10/2009","sector","52 Servicios financieros y de seguros",7.294033,7.29403299999999,0
 "01/10/2009","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",17.23843253,17.23843253,0
 "01/10/2009","sector","54 Servicios profesionales, científicos y técnicos",4.03247328,4.03247328,0
 "01/10/2009","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",0.63394,0.63394,0
@@ -8148,7 +8151,7 @@
 "01/10/2009","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/10/2009","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",3.71439626,4.08258393,0
 "01/10/2009","sector","81 Otros servicios excepto actividades gubernamentales",0.01678,0.01678,0
-"01/10/2009","sector","Confidencial",0.62345101,0.623450999999989,0
+"01/10/2009","sector","Confidencial",0.62345101,0.623451000000017,0
 "01/10/2009","subsector","111 Agricultura",,,1
 "01/10/2009","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2009","subsector","113 Aprovechamiento forestal",0,0,0
@@ -8179,7 +8182,7 @@
 "01/10/2009","subsector","333 Fabricación de maquinaria y equipo",15.932116,15.932116,0
 "01/10/2009","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",-167.771311,-167.771311,0
 "01/10/2009","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",-5.479876,-5.479876,0
-"01/10/2009","subsector","336 Fabricación de equipo de transporte",-3.894591,-3.89459099999999,0
+"01/10/2009","subsector","336 Fabricación de equipo de transporte",-3.894591,-3.894591,0
 "01/10/2009","subsector","337 Fabricación de muebles, colchones y persianas",,,1
 "01/10/2009","subsector","339 Otras industrias manufactureras",-3.548939,-3.548939,0
 "01/10/2009","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",0,0,0
@@ -8214,7 +8217,7 @@
 "01/10/2009","subsector","517 Telecomunicaciones",,,1
 "01/10/2009","subsector","518 Procesamiento electrónico de información, hospedaje y otros servicios relacionados",0,0,0
 "01/10/2009","subsector","519 Otros servicios de información",,,1
-"01/10/2009","subsector","522 Instituciones de intermediación crediticia y financiera no bursátil",5.867689,5.867689,0
+"01/10/2009","subsector","522 Instituciones de intermediación crediticia y financiera no bursátil",5.867689,5.86768899999999,0
 "01/10/2009","subsector","523 Actividades bursátiles, cambiarias y de inversión financiera",1.426344,1.426344,0
 "01/10/2009","subsector","524 Compañías de fianzas, seguros y pensiones",0,0,0
 "01/10/2009","subsector","531 Servicios inmobiliarios",17.38020253,17.38020253,0
@@ -8231,7 +8234,7 @@
 "01/10/2009","subsector","711 Servicios artísticos, culturales y deportivos, y otros servicios relacionados",0,0,0
 "01/10/2009","subsector","713 Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos",0,0,0
 "01/10/2009","subsector","721 Servicios de alojamiento temporal",3.89232526,4.26051293,0
-"01/10/2009","subsector","722 Servicios de preparación de alimentos y bebidas",-0.177929,-0.177929,0
+"01/10/2009","subsector","722 Servicios de preparación de alimentos y bebidas",-0.177929,-0.177929000000001,0
 "01/10/2009","subsector","811 Servicios de reparación y mantenimiento",0,0,0
 "01/10/2009","subsector","812 Servicios personales",,,1
 "01/10/2009","subsector","813 Asociaciones y organizaciones",,,1
@@ -8279,7 +8282,7 @@
 "01/10/2010","subsector","323 Impresión e industrias conexas",,,1
 "01/10/2010","subsector","324 Fabricación de productos derivados del petróleo y del carbón",0,0,0
 "01/10/2010","subsector","325 Industria química",25.258596,25.258596,0
-"01/10/2010","subsector","326 Industria del plástico y del hule",-0.707224,-0.707224,0
+"01/10/2010","subsector","326 Industria del plástico y del hule",-0.707224,-0.707223999999999,0
 "01/10/2010","subsector","327 Fabricación de productos a base de minerales no metálicos",,,1
 "01/10/2010","subsector","331 Industrias metálicas básicas",3.229347,3.229347,0
 "01/10/2010","subsector","332 Fabricación de productos metálicos",9.582853,9.582853,0
@@ -8326,7 +8329,7 @@
 "01/10/2010","subsector","524 Compañías de fianzas, seguros y pensiones",,,1
 "01/10/2010","subsector","531 Servicios inmobiliarios",36.92824241,36.92824241,0
 "01/10/2010","subsector","532 Servicios de alquiler de bienes muebles",0.081321,0.081321,0
-"01/10/2010","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",0.002849,0.002849,0
+"01/10/2010","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",0.002849,0.00284899999999999,0
 "01/10/2010","subsector","541 Servicios profesionales, científicos y técnicos",2.25449818,2.25449818,0
 "01/10/2010","subsector","561 Servicios de apoyo a los negocios",-1.86498303,-1.86498303,0
 "01/10/2010","subsector","562 Manejo de residuos y desechos, y servicios de remediación",0,0,0
@@ -8362,7 +8365,7 @@
 "01/10/2011","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0.010296,0.010296,0
 "01/10/2011","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",23.45906443,23.45906443,0
 "01/10/2011","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/10/2011","sector","Confidencial",-3.22042894,-3.22042892999991,0
+"01/10/2011","sector","Confidencial",-3.22042894,-3.22042893000003,0
 "01/10/2011","subsector","111 Agricultura",,,1
 "01/10/2011","subsector","112 Cría y explotación de animales",,,1
 "01/10/2011","subsector","113 Aprovechamiento forestal",0,0,0
@@ -8469,7 +8472,7 @@
 "01/10/2012","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/10/2012","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",15.714821,15.714821,0
 "01/10/2012","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/10/2012","sector","Confidencial",11.33491296,11.3349129999999,0
+"01/10/2012","sector","Confidencial",11.33491296,11.334913,0
 "01/10/2012","subsector","111 Agricultura",9.979093,9.979093,0
 "01/10/2012","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2012","subsector","113 Aprovechamiento forestal",0,0,0
@@ -8576,7 +8579,7 @@
 "01/10/2013","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/10/2013","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",43.89227245,43.89227245,0
 "01/10/2013","sector","81 Otros servicios excepto actividades gubernamentales",-0.00315052,-0.00315052,0
-"01/10/2013","sector","Confidencial",1.60520607,1.60520600000041,0
+"01/10/2013","sector","Confidencial",1.60520607,1.60520599999995,0
 "01/10/2013","subsector","111 Agricultura",37.832737,37.832737,0
 "01/10/2013","subsector","112 Cría y explotación de animales",,,1
 "01/10/2013","subsector","113 Aprovechamiento forestal",0,0,0
@@ -8607,7 +8610,7 @@
 "01/10/2013","subsector","333 Fabricación de maquinaria y equipo",11.81500035,11.81500035,0
 "01/10/2013","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",41.7591269,41.7591269,0
 "01/10/2013","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",51.15005337,51.15005337,0
-"01/10/2013","subsector","336 Fabricación de equipo de transporte",32.092081,32.092081,0
+"01/10/2013","subsector","336 Fabricación de equipo de transporte",32.092081,32.0920809999999,0
 "01/10/2013","subsector","337 Fabricación de muebles, colchones y persianas",,,1
 "01/10/2013","subsector","339 Otras industrias manufactureras",,,1
 "01/10/2013","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",,,1
@@ -8670,7 +8673,7 @@
 "01/10/2014","sector","21 Minería",,,1
 "01/10/2014","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",-1.480289,-1.480289,0
 "01/10/2014","sector","23 Construcción",24.69846717,24.69846717,0
-"01/10/2014","sector","31-33 Industrias manufactureras",566.9888181,566.988818100001,0
+"01/10/2014","sector","31-33 Industrias manufactureras",566.9888181,566.9888181,0
 "01/10/2014","sector","43 y 46 Comercio",30.61793468,30.61793468,0
 "01/10/2014","sector","48 y 49 Transportes, correos y almacenamiento",13.20590721,13.20590721,0
 "01/10/2014","sector","51 Información en medios masivos",-9.45520168,-9.45520168,0
@@ -8683,7 +8686,7 @@
 "01/10/2014","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/10/2014","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",40.33452375,40.33452375,0
 "01/10/2014","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/10/2014","sector","Confidencial",-4.22903538,-4.22903534999966,0
+"01/10/2014","sector","Confidencial",-4.22903538,-4.22903535,0
 "01/10/2014","subsector","111 Agricultura",,,1
 "01/10/2014","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2014","subsector","113 Aprovechamiento forestal",0,0,0
@@ -8790,7 +8793,7 @@
 "01/10/2015","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/10/2015","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",8.25629997,8.25629997,0
 "01/10/2015","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/10/2015","sector","Confidencial",-3.81431996,-3.81432000000029,0
+"01/10/2015","sector","Confidencial",-3.81431996,-3.81432000000001,0
 "01/10/2015","subsector","111 Agricultura",-5.4095354,-5.4095354,0
 "01/10/2015","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2015","subsector","113 Aprovechamiento forestal",0,0,0
@@ -8884,7 +8887,7 @@
 "01/10/2016","sector","21 Minería",,,1
 "01/10/2016","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",,,1
 "01/10/2016","sector","23 Construcción",0,0,0
-"01/10/2016","sector","31-33 Industrias manufactureras",41.03881402,41.14005347,0
+"01/10/2016","sector","31-33 Industrias manufactureras",41.03881402,41.1400534700002,0
 "01/10/2016","sector","43 y 46 Comercio",17.78215772,17.78215772,0
 "01/10/2016","sector","48 y 49 Transportes, correos y almacenamiento",7.15858319,7.15858319,0
 "01/10/2016","sector","51 Información en medios masivos",37.65868032,37.65868032,0
@@ -8897,7 +8900,7 @@
 "01/10/2016","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",,,1
 "01/10/2016","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",26.48135882,25.55434737,0
 "01/10/2016","sector","81 Otros servicios excepto actividades gubernamentales",0,0,0
-"01/10/2016","sector","Confidencial",-0.42165881,-0.421658800000188,0
+"01/10/2016","sector","Confidencial",-0.42165881,-0.421658800000216,0
 "01/10/2016","subsector","111 Agricultura",,,1
 "01/10/2016","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2016","subsector","113 Aprovechamiento forestal",0,0,0
@@ -8987,7 +8990,7 @@
 "01/10/2016","Tipo de inversión","Cuentas entre compañías",11.60437,11.60437,0
 "01/10/2016","Tipo de inversión","Nuevas inversiones",219.5888,218.66178,0
 "01/10/2016","Tipo de inversión","Reinversión de utilidades",-19.90876,-19.80752,0
-"01/10/2017","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",0,0.490353889999999,0
+"01/10/2017","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",0,0.490353890000001,0
 "01/10/2017","sector","21 Minería",48.82416871,48.82416871,0
 "01/10/2017","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",-6.78808498,-7.11694877,0
 "01/10/2017","sector","23 Construcción",2.49408593,2.48975596,0
@@ -9004,7 +9007,7 @@
 "01/10/2017","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/10/2017","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",17.52599632,17.20835426,0
 "01/10/2017","sector","81 Otros servicios excepto actividades gubernamentales",0.00385472,0.1652251,0
-"01/10/2017","sector","Confidencial",-3e-08,-5.6843418860808e-14,0
+"01/10/2017","sector","Confidencial",-3e-08,0,0
 "01/10/2017","subsector","111 Agricultura",0,,1
 "01/10/2017","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2017","subsector","113 Aprovechamiento forestal",0,0,0
@@ -9098,7 +9101,7 @@
 "01/10/2018","sector","21 Minería",6.6643684,,1
 "01/10/2018","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",8.04570243,14.60424053,0
 "01/10/2018","sector","23 Construcción",0.00396439,0.68068764,0
-"01/10/2018","sector","31-33 Industrias manufactureras",-15.21981429,11.7619397699999,0
+"01/10/2018","sector","31-33 Industrias manufactureras",-15.21981429,11.76193977,0
 "01/10/2018","sector","43 y 46 Comercio",20.07470224,17.01198393,0
 "01/10/2018","sector","48 y 49 Transportes, correos y almacenamiento",12.67771422,14.07547377,0
 "01/10/2018","sector","51 Información en medios masivos",19.13789771,19.26777808,0
@@ -9111,7 +9114,7 @@
 "01/10/2018","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
 "01/10/2018","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",13.03565034,23.93668733,0
 "01/10/2018","sector","81 Otros servicios excepto actividades gubernamentales",1.73708515,3.48025353,0
-"01/10/2018","sector","Confidencial",0,5.2742512400001,0
+"01/10/2018","sector","Confidencial",0,5.2742512399999,0
 "01/10/2018","subsector","111 Agricultura",0,,1
 "01/10/2018","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2018","subsector","113 Aprovechamiento forestal",0,0,0
@@ -9207,9 +9210,9 @@
 "01/10/2019","sector","23 Construcción",-142.7012332,-142.70123319,0
 "01/10/2019","sector","31-33 Industrias manufactureras",-37.92681408,-88.1005224,0
 "01/10/2019","sector","43 y 46 Comercio",21.95157476,21.04752795,0
-"01/10/2019","sector","48 y 49 Transportes, correos y almacenamiento",8.29248243,-0.332637299999998,0
-"01/10/2019","sector","51 Información en medios masivos",0.52362574,0.523625739999996,0
-"01/10/2019","sector","52 Servicios financieros y de seguros",106.8100324,106.05525397,0
+"01/10/2019","sector","48 y 49 Transportes, correos y almacenamiento",8.29248243,-0.332637299999999,0
+"01/10/2019","sector","51 Información en medios masivos",0.52362574,0.523625740000003,0
+"01/10/2019","sector","52 Servicios financieros y de seguros",106.8100324,106.05540964,0
 "01/10/2019","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",,,1
 "01/10/2019","sector","54 Servicios profesionales, científicos y técnicos",-28.34866114,-30.54862625,0
 "01/10/2019","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",-0.77741825,-0.77482377,0
@@ -9285,7 +9288,7 @@
 "01/10/2019","subsector","518 Procesamiento electrónico de información, hospedaje y otros servicios relacionados",0,0,0
 "01/10/2019","subsector","519 Otros servicios de información",,,1
 "01/10/2019","subsector","522 Instituciones de intermediación crediticia y financiera no bursátil",14.30922546,13.4506679,0
-"01/10/2019","subsector","523 Actividades bursátiles, cambiarias y de inversión financiera",,,1
+"01/10/2019","subsector","523 Actividades bursátiles, cambiarias y de inversión financiera",,89.26296072,0
 "01/10/2019","subsector","524 Compañías de fianzas, seguros y pensiones",3.34178102,3.34178102,0
 "01/10/2019","subsector","531 Servicios inmobiliarios",0,0,0
 "01/10/2019","subsector","532 Servicios de alquiler de bienes muebles",,,1
@@ -9306,27 +9309,27 @@
 "01/10/2019","subsector","812 Servicios personales",3.95157147,3.95157147,0
 "01/10/2019","subsector","813 Asociaciones y organizaciones",0,0,0
 "01/10/2019","Tipo de inversión","Cuentas entre compañías",-173.529907,-238.94092,0
-"01/10/2019","Tipo de inversión","Nuevas inversiones",50.23171314,66.42449,0
+"01/10/2019","Tipo de inversión","Nuevas inversiones",50.23171314,66.42465,0
 "01/10/2019","Tipo de inversión","Reinversión de utilidades",47.20079244,42.4996,0
-"01/10/2020","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",-35.44745475,-35.44745475,0
+"01/10/2020","sector","11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",-35.44745475,-41.63023387,0
 "01/10/2020","sector","21 Minería",0,0,0
 "01/10/2020","sector","22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final",180.43548612,180.43548612,0
-"01/10/2020","sector","23 Construcción",-0.49278811,-0.49278811,0
-"01/10/2020","sector","31-33 Industrias manufactureras",-118.55467917,-118.55467917,0
-"01/10/2020","sector","43 y 46 Comercio",-16.27171561,-16.27171561,0
+"01/10/2020","sector","23 Construcción",-0.49278811,-0.48914416,0
+"01/10/2020","sector","31-33 Industrias manufactureras",-118.55467917,-114.14357335,0
+"01/10/2020","sector","43 y 46 Comercio",-16.27171561,-13.78467941,0
 "01/10/2020","sector","48 y 49 Transportes, correos y almacenamiento",13.44556875,13.44556875,0
-"01/10/2020","sector","51 Información en medios masivos",3.01683409,3.01683409,0
-"01/10/2020","sector","52 Servicios financieros y de seguros",0.47711545,0.47711545,0
-"01/10/2020","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",,,1
-"01/10/2020","sector","54 Servicios profesionales, científicos y técnicos",14.91721776,14.91721776,0
+"01/10/2020","sector","51 Información en medios masivos",3.01683409,3.01731974999999,0
+"01/10/2020","sector","52 Servicios financieros y de seguros",0.47711545,0.477115450000001,0
+"01/10/2020","sector","53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",,-10.58975146,0
+"01/10/2020","sector","54 Servicios profesionales, científicos y técnicos",14.91721776,14.91724206,0
 "01/10/2020","sector","56 Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación",-2.98554768,-2.98554768,0
 "01/10/2020","sector","61 Servicios educativos",0,0,0
 "01/10/2020","sector","62 Servicios de salud y de asistencia social",0,0,0
 "01/10/2020","sector","71 Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",0,0,0
-"01/10/2020","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",6.65490154,6.65490154,0
+"01/10/2020","sector","72 Servicios de alojamiento temporal y de preparación de alimentos y bebidas",6.65490154,4.43094185999999,0
 "01/10/2020","sector","81 Otros servicios excepto actividades gubernamentales",,,1
-"01/10/2020","sector","Confidencial",10.0245483599998,10.0245483599998,0
-"01/10/2020","subsector","111 Agricultura",-32.02530461,-32.02530461,0
+"01/10/2020","sector","Confidencial",10.0245483599998,14.2779756399999,0
+"01/10/2020","subsector","111 Agricultura",-32.02530461,-38.20808373,0
 "01/10/2020","subsector","112 Cría y explotación de animales",0,0,0
 "01/10/2020","subsector","113 Aprovechamiento forestal",0,0,0
 "01/10/2020","subsector","115 Servicios relacionados con las actividades agropecuarias y forestales",,,1
@@ -9337,7 +9340,7 @@
 "01/10/2020","subsector","222 Suministro de agua y suministro de gas por ductos al consumidor final",0,0,0
 "01/10/2020","subsector","236 Edificación",,,1
 "01/10/2020","subsector","237 Construcción de obras de ingeniería civil",-4.77727779,-4.77727779,0
-"01/10/2020","subsector","238 Trabajos especializados para la construcción",0,0,0
+"01/10/2020","subsector","238 Trabajos especializados para la construcción",0,,1
 "01/10/2020","subsector","311 Industria alimentaria",-58.93802158,-58.93802158,0
 "01/10/2020","subsector","312 Industria de las bebidas y del tabaco",-12.01292383,-12.01292383,0
 "01/10/2020","subsector","313 Fabricación de insumos textiles y acabado de textiles",0,0,0
@@ -9349,32 +9352,32 @@
 "01/10/2020","subsector","323 Impresión e industrias conexas",,,1
 "01/10/2020","subsector","324 Fabricación de productos derivados del petróleo y del carbón",0,0,0
 "01/10/2020","subsector","325 Industria química",-10.06036557,-10.06036557,0
-"01/10/2020","subsector","326 Industria del plástico y del hule",-37.69472395,-37.69472395,0
+"01/10/2020","subsector","326 Industria del plástico y del hule",-37.69472395,-37.46892094,0
 "01/10/2020","subsector","327 Fabricación de productos a base de minerales no metálicos",,,1
 "01/10/2020","subsector","331 Industrias metálicas básicas",-6.94885496000001,-6.94885496000001,0
 "01/10/2020","subsector","332 Fabricación de productos metálicos",0.44979345,0.44979345,0
 "01/10/2020","subsector","333 Fabricación de maquinaria y equipo",-5.38575702,-5.38575702,0
-"01/10/2020","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",-32.86522795,-32.86522795,0
+"01/10/2020","subsector","334 Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",-32.86522795,-28.6800709,0
 "01/10/2020","subsector","335 Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",0.73994037,0.73994037,0
-"01/10/2020","subsector","336 Fabricación de equipo de transporte",44.0768223,44.0768223,0
+"01/10/2020","subsector","336 Fabricación de equipo de transporte",44.0768223,44.07696806,0
 "01/10/2020","subsector","337 Fabricación de muebles, colchones y persianas",0,0,0
 "01/10/2020","subsector","339 Otras industrias manufactureras",-0.40585502,-0.40585502,0
 "01/10/2020","subsector","431 Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco",-20.09760913,-20.09760913,0
 "01/10/2020","subsector","432 Comercio al por mayor de productos textiles y calzado",-2.22911166,-2.22911166,0
-"01/10/2020","subsector","433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",,,1
-"01/10/2020","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",-1.13623189,-1.13623189,0
+"01/10/2020","subsector","433 Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca",,-0.28057951,0
+"01/10/2020","subsector","434 Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho",-1.13623189,-1.0779288,0
 "01/10/2020","subsector","435 Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general",5.99157396999999,5.99157396999999,0
 "01/10/2020","subsector","436 Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones",0,0,0
 "01/10/2020","subsector","437 Intermediación de comercio al por mayor",,,1
 "01/10/2020","subsector","461 Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco",,,1
-"01/10/2020","subsector","462 Comercio al por menor en tiendas de autoservicio y departamentales",,,1
+"01/10/2020","subsector","462 Comercio al por menor en tiendas de autoservicio y departamentales",,5.63214392,0
 "01/10/2020","subsector","463 Comercio al por menor de productos textiles, bisutería, accesorios de vestir y calzado",,,1
 "01/10/2020","subsector","464 Comercio al por menor de artículos para el cuidado de la salud",0,0,0
 "01/10/2020","subsector","465 Comercio al por menor de artículos de papelería, para el esparcimiento y otros artículos de uso personal",,,1
 "01/10/2020","subsector","466 Comercio al por menor de enseres domésticos, computadoras, artículos para la decoración de interiores y artículos usados",,,1
 "01/10/2020","subsector","467 Comercio al por menor de artículos de ferretería, tlapalería y vidrios",,,1
 "01/10/2020","subsector","468 Comercio al por menor de vehículos de motor, refacciones, combustibles y lubricantes",0,0,0
-"01/10/2020","subsector","469 Comercio al por menor exclusivamente a través de Internet, y catálogos impresos, televisión y similares",0,0,0
+"01/10/2020","subsector","469 Comercio al por menor exclusivamente a través de Internet, y catálogos impresos, televisión y similares",0,,1
 "01/10/2020","subsector","481 Transporte aéreo",0,0,0
 "01/10/2020","subsector","482 Transporte por ferrocarril",,,1
 "01/10/2020","subsector","483 Transporte por agua",,,1
@@ -9394,10 +9397,10 @@
 "01/10/2020","subsector","522 Instituciones de intermediación crediticia y financiera no bursátil",-4.18635906,-4.18635906,0
 "01/10/2020","subsector","523 Actividades bursátiles, cambiarias y de inversión financiera",,,1
 "01/10/2020","subsector","524 Compañías de fianzas, seguros y pensiones",,,1
-"01/10/2020","subsector","531 Servicios inmobiliarios",,,1
+"01/10/2020","subsector","531 Servicios inmobiliarios",,-10.58975146,0
 "01/10/2020","subsector","532 Servicios de alquiler de bienes muebles",0,0,0
 "01/10/2020","subsector","533 Servicios de alquiler de marcas registradas, patentes y franquicias",0,0,0
-"01/10/2020","subsector","541 Servicios profesionales, científicos y técnicos",14.91721776,14.91721776,0
+"01/10/2020","subsector","541 Servicios profesionales, científicos y técnicos",14.91721776,14.91724206,0
 "01/10/2020","subsector","561 Servicios de apoyo a los negocios",-2.98554768,-2.98554768,0
 "01/10/2020","subsector","562 Manejo de residuos y desechos, y servicios de remediación",0,0,0
 "01/10/2020","subsector","611 Servicios educativos",0,0,0
@@ -9407,11 +9410,11 @@
 "01/10/2020","subsector","624 Otros servicios de asistencia social",0,0,0
 "01/10/2020","subsector","711 Servicios artísticos, culturales y deportivos, y otros servicios relacionados",0,0,0
 "01/10/2020","subsector","713 Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos",0,0,0
-"01/10/2020","subsector","721 Servicios de alojamiento temporal",6.65490154,6.65490154,0
+"01/10/2020","subsector","721 Servicios de alojamiento temporal",6.65490154,4.43094185999999,0
 "01/10/2020","subsector","722 Servicios de preparación de alimentos y bebidas",0,0,0
 "01/10/2020","subsector","811 Servicios de reparación y mantenimiento",,,1
 "01/10/2020","subsector","812 Servicios personales",,,1
 "01/10/2020","subsector","813 Asociaciones y organizaciones",0,0,0
-"01/10/2020","Tipo de inversión","Cuentas entre compañías",29.105943,29.105943,0
-"01/10/2020","Tipo de inversión","Nuevas inversiones",34.178668,34.178668,0
+"01/10/2020","Tipo de inversión","Cuentas entre compañías",29.105943,27.108321,0
+"01/10/2020","Tipo de inversión","Nuevas inversiones",34.178668,28.335523,0
 "01/10/2020","Tipo de inversión","Reinversión de utilidades",-8.065124,-8.065124,0
